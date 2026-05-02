@@ -26,8 +26,6 @@ Tools to test your network:
 For creating custom landing pages to display multiple links:
 (All of these provide unlimited links and custom URLs)
 
-#### Link In Bio
-
 - [Linktree](https://linktr.ee/) - Popular Social Media Landing Page
 - [LinkStack](https://linkstack.org/) - Self Hosted Link Bio Manager
 - [Carrd](https://carrd.co/) - Simple One Page Website Builder
