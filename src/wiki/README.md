@@ -1,6 +1,6 @@
 ---
-title: Welcome to Kalyankari Collection
-icon: fa6-solid:hand-sparkles
+title: Wiki
+icon: ri:diamond-line
 index: false
 ---
 
