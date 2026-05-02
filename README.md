@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/KalyankariCollection/KalyankariCollection/master/src/.vuepress/public/logo.png" alt="Kalyankari Collection Logo" width="120" />
 
-# 🌟 Kalyankari Collection
+# Kalyankari Collection
 
 **A curated wiki of useful links, tools, and resources — gathered from across the internet to elevate the standard of Godly Services (Seva).**
 
