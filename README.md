@@ -98,6 +98,6 @@ pnpm build
 
 <div align="center">
 
-Made with ❤️ by the **Kalyankari Collection** community
+Made with ❤️ to elevate the standard of Godly Services.
 
 </div>
