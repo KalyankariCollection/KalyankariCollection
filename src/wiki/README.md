@@ -26,7 +26,7 @@ Everything here is freely accessible, community-vetted, and arranged into clear 
 
 **We strongly recommend installing an adblocker** before visiting any site in this collection. It will make your experience safer, faster, and completely ad-free:
 
-- 🦊 **Firefox users** → Install [uBlock Origin](https://ublockorigin.com/)
+- 🦊 **Firefox users** → Install [uBlock Origin](https://addons.mozilla.org/en/firefox/addon/ublock-origin/)
 - 🌐 **Chrome users** → Install [uBlock Origin Lite](https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) (available in the Chrome Web Store)
 
 It only takes a minute and makes a world of difference.

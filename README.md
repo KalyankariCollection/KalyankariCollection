@@ -57,7 +57,7 @@ The collection currently covers **21 categories**:
 
 Before exploring the sites listed in the wiki, we **highly recommend** installing an adblocker for a safe, ad-free experience:
 
-- **[uBlock Origin](https://ublockorigin.com/)** — the gold standard for Firefox and older Chrome
+- **[uBlock Origin](https://addons.mozilla.org/en/firefox/addon/ublock-origin/)** — the gold standard for Firefox and older Chrome
 - [uBlock Origin Lite](https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh) — for Chrome (Manifest V3) users
 
 ---
