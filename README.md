@@ -6,10 +6,9 @@
 
 **A curated wiki of useful links, tools, and resources — gathered from across the internet to elevate the standard of Godly Services (Seva).**
 
-[![Visit the Wiki](https://img.shields.io/badge/Visit%20the%20Wiki-4A90E2?style=for-the-badge&logo=gitbook&logoColor=white)](https://kalyankari-collection.github.io/KalyankariCollection/)
+[![Visit the Wiki](https://img.shields.io/badge/Visit%20the%20Wiki-4A90E2?style=for-the-badge&logo=gitbook&logoColor=white)](https://kalyankari-collection.pages.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-%40KalyankariAngel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KalyankariAngel)
 [![Email](https://img.shields.io/badge/Email-KalyankariAngel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KalyankariAngel@gmail.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -94,12 +93,6 @@ pnpm docs:dev
 # Build for production
 pnpm build
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the **[MIT License](LICENSE)**.
 
 ---
 
