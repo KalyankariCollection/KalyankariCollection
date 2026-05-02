@@ -14,7 +14,7 @@ Browse by category in the sidebar, or scroll down to learn a little more about w
 
 ## What Is This?
 
-> *"Kalyankari" (कल्याणकारी) — One who does good for all.*
+> *"Kalyankari" (कल्याणकारी) — meaning One who does good for all.*
 
 This collection was built to serve those who serve others. Whether you're looking for tools for productivity, creativity, privacy, learning, or anything in between — this wiki brings the best of the web into one trusted directory, organised and maintained with care.
 

@@ -8,7 +8,6 @@
 
 [![Visit the Wiki](https://img.shields.io/badge/Visit%20the%20Wiki-4A90E2?style=for-the-badge&logo=gitbook&logoColor=white)](https://kalyankari-collection.pages.dev)
 [![Telegram Group](https://img.shields.io/badge/Telegram%20Group-KalyankariCollection-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KalyankariCollection)
-[![Telegram](https://img.shields.io/badge/Telegram-%40KalyankariAngel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KalyankariAngel)
 [![Email](https://img.shields.io/badge/Email-KalyankariAngel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KalyankariAngel@gmail.com)
 
 </div>
@@ -21,7 +20,7 @@ The **Kalyankari Collection** is a carefully maintained, community-driven wiki t
 
 Whether you're looking for privacy tools, educational platforms, productivity apps, or the best Android and iOS resources — it's all here, organised by category, and ready to browse.
 
-> *"Kalyankari" (कल्याणकारी) — meaning beneficial, welfare-oriented, or doing good for all.*
+> *"Kalyankari" (कल्याणकारी) — meaning One who does good for all.*
 
 ---
 
@@ -69,7 +68,7 @@ Before exploring the sites listed in the wiki, we **highly recommend** installin
 
 Reach out — we'd love to hear from you:
 
-- 📣 **Telegram Group**: [t.me/KalyankariCollection](https://t.me/KalyankariCollection) — join the community!
+- 📣 **Telegram Group**: [t.me/KalyankariCollection](https://t.me/KalyankariCollection)
 - 💬 **Telegram**: [@KalyankariAngel](https://t.me/KalyankariAngel)
 - 📧 **Email**: [KalyankariAngel@gmail.com](mailto:KalyankariAngel@gmail.com)
 
