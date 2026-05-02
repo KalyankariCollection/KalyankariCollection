@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KalyankariCollection/KalyankariCollection/main/src/.vuepress/public/logo.png" alt="Kalyankari Collection Logo" width="120" />
+<img src="https://raw.githubusercontent.com/KalyankariCollection/KalyankariCollection/master/src/.vuepress/public/logo.png" alt="Kalyankari Collection Logo" width="120" />
 
 # 🌟 Kalyankari Collection
 
