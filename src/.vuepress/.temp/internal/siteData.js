@@ -1,1 +1,0 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"Kalyankari Collection\",\"description\":\"A curated wiki of useful links and resources.\",\"head\":[],\"locales\":{}}")
