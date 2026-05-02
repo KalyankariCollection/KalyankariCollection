@@ -4,3 +4,4 @@ node_modules
 # VuePress build artifacts (auto-generated, never commit)
 src/.vuepress/.cache
 src/.vuepress/.temp
+dist
