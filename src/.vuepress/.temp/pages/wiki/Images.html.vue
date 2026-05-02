@@ -1,0 +1,128 @@
+<template><div><h1 id="images" tabindex="-1"><a class="header-anchor" href="#images"><span>Images</span></a></h1>
+<h2 id="editing-software" tabindex="-1"><a class="header-anchor" href="#editing-software"><span>Editing Software</span></a></h2>
+<p>Editing tools for graphic designing:</p>
+<ul>
+<li><a href="https://www.gimp.org/" target="_blank" rel="noopener noreferrer">GIMP</a> - Powerful open source image editor</li>
+<li><a href="https://www.affinity.studio/" target="_blank" rel="noopener noreferrer">Affinity</a> - Professional creative software suite</li>
+<li><a href="https://imagemagick.org/" target="_blank" rel="noopener noreferrer">ImageMagick</a> - Command line image manipulation tool</li>
+<li><a href="https://lazpaint.github.io/" target="_blank" rel="noopener noreferrer">LazPaint</a> - Simple cross-platform paint program</li>
+<li><a href="https://photodemon.org/" target="_blank" rel="noopener noreferrer">PhotoDemon</a> - Portable open source photo editor</li>
+<li><a href="https://github.com/CyberTimon/RapidRAW" target="_blank" rel="noopener noreferrer">RapidRAW</a> - Fast raw image processing tool</li>
+<li><a href="https://gimelstudio.com/" target="_blank" rel="noopener noreferrer">GimelStudio</a> - Node-based non-destructive image editor</li>
+</ul>
+<h2 id="online-image-editors" tabindex="-1"><a class="header-anchor" href="#online-image-editors"><span>Online Image Editors</span></a></h2>
+<p>For quickly editing images without installing anything:</p>
+<ul>
+<li><a href="https://pixlr.com/" target="_blank" rel="noopener noreferrer">Pixlr</a> - Cloud-based photo editing tool</li>
+<li><a href="https://lunapic.com/" target="_blank" rel="noopener noreferrer">LunaPic</a> - Free online photo editing platform</li>
+<li><a href="https://photoeditor.polarr.co/" target="_blank" rel="noopener noreferrer">Polarr Photo Editor</a> - Advanced web-based photo editor</li>
+<li><a href="https://www.resizepixel.com/" target="_blank" rel="noopener noreferrer">ResizePixel</a> - Simple online image resizing tool</li>
+<li><a href="https://tomseditor.com/editor/" target="_blank" rel="noopener noreferrer">Tom's Editor</a> - Versatile browser-based image editor</li>
+<li><a href="https://www.photo.codes/" target="_blank" rel="noopener noreferrer">Photo.codes</a> - Quick web-based photo tool</li>
+</ul>
+<h4 id="photoshop-alternatives" tabindex="-1"><a class="header-anchor" href="#photoshop-alternatives"><span>Photoshop Alternatives</span></a></h4>
+<ul>
+<li><a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> - Advanced online Photoshop alternative</li>
+<li><a href="https://www.igorski.nl/application/bitmappery/" target="_blank" rel="noopener noreferrer">Bitmappery</a> - Simple browser-based pixel editor</li>
+<li><a href="https://ipiccy.com/" target="_blank" rel="noopener noreferrer">iPiccy</a> - Easy online photo editing tool</li>
+</ul>
+<h2 id="content-removers" tabindex="-1"><a class="header-anchor" href="#content-removers"><span>Content Removers</span></a></h2>
+<p>For removing unnecessary pixels like objects and background:</p>
+<ul>
+<li><a href="https://objectremover.com/" target="_blank" rel="noopener noreferrer">Object Remover</a> - AI powered object removal tool</li>
+<li><a href="https://lama-cleaner-docs.vercel.app/" target="_blank" rel="noopener noreferrer">Lama Cleaner</a> - Advanced image inpainting software</li>
+<li><a href="https://theinpaint.com/" target="_blank" rel="noopener noreferrer">TheInpaint</a> - Remove unwanted objects from photos</li>
+<li><a href="https://cleanup.pictures/" target="_blank" rel="noopener noreferrer">Cleanup.pictures</a> - Quick AI object removal tool</li>
+</ul>
+<h2 id="background-removers" tabindex="-1"><a class="header-anchor" href="#background-removers"><span>Background Removers</span></a></h2>
+<ul>
+<li><a href="https://bgbye.io/" target="_blank" rel="noopener noreferrer">BGbye</a> - Simple online background remover | <a href="https://bgbye.fyrean.com/" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:mirror" /></a></li>
+<li><a href="https://briaai-bria-rmbg-2-0.hf.space/" target="_blank" rel="noopener noreferrer">BRIA RMBG 2.0</a> - AI based background removal tool</li>
+<li><a href="https://www.pixelcut.ai/" target="_blank" rel="noopener noreferrer">Pixelcut</a> - Fast mobile background remover</li>
+<li><a href="https://ripolas.org/background-remover/" target="_blank" rel="noopener noreferrer">Ripolas Background Remover</a> - Free web background removal tool</li>
+<li><a href="https://www.change-bg.org/" target="_blank" rel="noopener noreferrer">Change BG</a> - Easy online background changer</li>
+</ul>
+<h2 id="image-upscalers" tabindex="-1"><a class="header-anchor" href="#image-upscalers"><span>Image Upscalers</span></a></h2>
+<p>Increase the resolution of your images using AI!</p>
+<ul>
+<li><a href="https://upscayl.org/" target="_blank" rel="noopener noreferrer">Upscayl</a> - Free open source AI upscaler</li>
+<li><a href="https://chainner.app/" target="_blank" rel="noopener noreferrer">ChaiNNer</a> - Node-based image processing tool</li>
+<li><a href="https://image-upscaling.net/" target="_blank" rel="noopener noreferrer">Image Upscaling</a> - Simple AI image enhancement tool</li>
+<li><a href="https://imgupscaler.ai/" target="_blank" rel="noopener noreferrer">ImgUpscaler</a> - AI based image upscaling tool</li>
+<li><a href="https://bigjpg.com/" target="_blank" rel="noopener noreferrer">Bigjpg</a> - AI image enlarger for artwork</li>
+<li><a href="https://imgupscaler.com/" target="_blank" rel="noopener noreferrer">ImgUpscaler</a> - Fast online image upscaler</li>
+</ul>
+<h2 id="painting-drawing" tabindex="-1"><a class="header-anchor" href="#painting-drawing"><span>Painting/Drawing</span></a></h2>
+<p>Useful tools for artists who create illustrations:</p>
+<ul>
+<li><a href="https://krita.org/" target="_blank" rel="noopener noreferrer">Krita</a> - Professional open source painting program | <a href="https://www.interstice.cloud/" target="_blank" rel="noopener noreferrer">AI Features</a></li>
+<li><a href="https://viliusle.github.io/miniPaint/" target="_blank" rel="noopener noreferrer">miniPaint</a> - Browser based image editor tool</li>
+<li><a href="https://www.pinta-project.com/" target="_blank" rel="noopener noreferrer">Pinta</a> - Simple open source drawing program</li>
+<li><a href="https://qrli.github.io/smoothdraw/" target="_blank" rel="noopener noreferrer">SmoothDraw</a> - Lightweight natural painting software</li>
+<li><a href="https://inkscape.org/" target="_blank" rel="noopener noreferrer">Inkscape</a> - Professional vector graphics editor</li>
+<li><a href="https://firealpaca.com/" target="_blank" rel="noopener noreferrer">FireAlpaca</a> - Simple digital painting software</li>
+</ul>
+<h2 id="stock-images" tabindex="-1"><a class="header-anchor" href="#stock-images"><span>Stock Images</span></a></h2>
+<p>Resources to download stock images:</p>
+<ul>
+<li><a href="https://github.com/neutraltone/awesome-stock-resources?tab=readme-ov-file#photography" target="_blank" rel="noopener noreferrer">Awesome Stock Image Resources</a> - Collection of stock image sites</li>
+<li><a href="https://pixabay.com/" target="_blank" rel="noopener noreferrer">Pixabay</a> - Free stock photos and videos</li>
+<li><a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">Unsplash</a> - High quality free stock photos</li>
+<li><a href="https://pixnio.com/" target="_blank" rel="noopener noreferrer">Pixnio</a> - Public domain image repository</li>
+<li><a href="https://pikwizard.com/" target="_blank" rel="noopener noreferrer">PikWizard</a> - Free stock photography library</li>
+<li><a href="https://www.pexels.com/" target="_blank" rel="noopener noreferrer">Pexels</a> - Best free stock photo platform</li>
+<li><a href="https://stock.adobe.com/free" target="_blank" rel="noopener noreferrer">Adobe Stock Free</a> - Selection of free Adobe assets</li>
+</ul>
+<h4 id="download-paid-stock-images" tabindex="-1"><a class="header-anchor" href="#download-paid-stock-images"><span>Download Paid Stock Images</span></a></h4>
+<ul>
+<li><a href="https://getpaidstock.com/" target="_blank" rel="noopener noreferrer">GetPaidStock</a> - Download paid stock images free</li>
+<li><a href="https://downpic.cc/" target="_blank" rel="noopener noreferrer">DownPic</a> - Simple stock image downloader tool</li>
+<li><a href="https://downloader.la/" target="_blank" rel="noopener noreferrer">Downloader.la</a> - Multi-site stock image downloader</li>
+</ul>
+<h2 id="image-resources" tabindex="-1"><a class="header-anchor" href="#image-resources"><span>Image Resources</span></a></h2>
+<p>A collection of useful image tools and resources:</p>
+<ul>
+<li><a href="https://www.newgrounds.com/wiki/creator-resources/" target="_blank" rel="noopener noreferrer">Newgrounds Creator Resources</a> - Curated art and design resources</li>
+<li><a href="https://imgops.com/" target="_blank" rel="noopener noreferrer">ImgOps</a> - Comprehensive image meta toolkit</li>
+<li><a href="https://search.muz.li/" target="_blank" rel="noopener noreferrer">Muzli Search</a> - Search engine for design inspiration</li>
+<li><a href="https://github.com/ermig1979/AntiDupl" target="_blank" rel="noopener noreferrer">AntiDupl</a> - Find and remove duplicate images</li>
+<li><a href="https://github.com/scrubbbbs/cbird" target="_blank" rel="noopener noreferrer">cbird</a> - Command line duplicate image finder</li>
+</ul>
+<h4 id="compress-images" tabindex="-1"><a class="header-anchor" href="#compress-images"><span>Compress Images</span></a></h4>
+<ul>
+<li><a href="https://squoosh.app/" target="_blank" rel="noopener noreferrer">Squoosh</a> - Modern browser-based image compressor</li>
+<li><a href="https://www.seopix.io/" target="_blank" rel="noopener noreferrer">SeoPix</a> - Online image optimization tool</li>
+<li><a href="https://optimize.photos/" target="_blank" rel="noopener noreferrer">Optimize.photos</a> - Simple web photo compressor</li>
+</ul>
+<h4 id="image-hosts" tabindex="-1"><a class="header-anchor" href="#image-hosts"><span>Image Hosts</span></a></h4>
+<ul>
+<li><a href="https://imgbb.com/" target="_blank" rel="noopener noreferrer">ImgBB</a> - Simple free image hosting service</li>
+<li><a href="https://catbox.moe/" target="_blank" rel="noopener noreferrer">Catbox</a> - Fast anonymous file hosting site</li>
+<li><a href="https://freeimage.host/" target="_blank" rel="noopener noreferrer">FreeImage</a> - Free high-quality image hosting</li>
+<li><a href="https://imgbox.com/" target="_blank" rel="noopener noreferrer">ImgBox</a> - Simple fast image hosting platform</li>
+<li><a href="https://tikolu.net/i/" target="_blank" rel="noopener noreferrer">Tikolu</a> - Minimalist image sharing tool</li>
+</ul>
+<h2 id="ocr-tools" tabindex="-1"><a class="header-anchor" href="#ocr-tools"><span>OCR Tools</span></a></h2>
+<p>For converting image to text:</p>
+<ul>
+<li><a href="https://www.imagetotext.info/" target="_blank" rel="noopener noreferrer">ImageToText</a> - Online image to text converter</li>
+<li><a href="https://www.i2ocr.com/" target="_blank" rel="noopener noreferrer">i2OCR</a> - Free multi-language OCR tool</li>
+<li><a href="https://ocr.space/" target="_blank" rel="noopener noreferrer">OCR.space</a> - Fast online OCR service API</li>
+<li><a href="https://ocrtool.net/" target="_blank" rel="noopener noreferrer">OCRTool</a> - Simple image text extraction tool</li>
+<li><a href="https://onlineocr.org/" target="_blank" rel="noopener noreferrer">OnlineOCR</a> - Convert scanned images to text</li>
+</ul>
+<h2 id="image-viewers" tabindex="-1"><a class="header-anchor" href="#image-viewers"><span>Image Viewers</span></a></h2>
+<p>Software for viewing images on desktop:</p>
+<ul>
+<li><a href="https://www.irfanview.com/" target="_blank" rel="noopener noreferrer">IrfanView</a> - Fast compact image viewer software</li>
+<li><a href="https://interversehq.com/qview/" target="_blank" rel="noopener noreferrer">qView</a> - Minimalist cross-platform image viewer</li>
+<li><a href="https://github.com/sylikc/jpegview" target="_blank" rel="noopener noreferrer">JPEGView</a> - Lean and fast image viewer</li>
+<li><a href="https://www.faststone.org" target="_blank" rel="noopener noreferrer">FastStone Image Viewer</a> - User-friendly image browser tool</li>
+<li><a href="https://www.xnview.com/en/xnviewmp/" target="_blank" rel="noopener noreferrer">XnViewMP</a> - Powerful multi-format image viewer</li>
+<li><a href="https://www.digikam.org/" target="_blank" rel="noopener noreferrer">digiKam</a> - Advanced digital photo management tool</li>
+<li><a href="https://imageglass.org/" target="_blank" rel="noopener noreferrer">ImageGlass</a> - Lightweight versatile image viewer</li>
+<li><a href="https://nomacs.org/" target="_blank" rel="noopener noreferrer">Nomacs</a> - Free open source image viewer</li>
+</ul>
+</div></template>
+
+

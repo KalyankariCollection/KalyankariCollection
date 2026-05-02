@@ -1,0 +1,268 @@
+<template><div><h1 id="web" tabindex="-1"><a class="header-anchor" href="#web"><span>Web</span></a></h1>
+<h2 id="network-tools" tabindex="-1"><a class="header-anchor" href="#network-tools"><span>Network Tools</span></a></h2>
+<p>Tools to test your network:</p>
+<ul>
+<li><a href="https://safing.io/" target="_blank" rel="noopener noreferrer">Safing Portmaster</a> - Free Open Source Firewall Tool</li>
+<li><a href="https://www.wireshark.org/" target="_blank" rel="noopener noreferrer">Wireshark</a> - Industry Standard Network Protocol Analyzer</li>
+<li><a href="https://apps.microsoft.com/detail/9nblggh33n0n" target="_blank" rel="noopener noreferrer">Wi-Fi Analyzer</a> - Network Signal Analysis Tool</li>
+<li><a href="https://www.pinging.net/" target="_blank" rel="noopener noreferrer">Pinging.net</a> - Live Internet Uptime Ping Monitors</li>
+<li><a href="https://github.com/bp2008/pingtracer" target="_blank" rel="noopener noreferrer">PingTracer</a> - Graphical Network Traceroute Ping Monitor</li>
+</ul>
+<h4 id="internet-speed-tests" tabindex="-1"><a class="header-anchor" href="#internet-speed-tests"><span>Internet Speed Tests</span></a></h4>
+<ul>
+<li><a href="https://fast.com/" target="_blank" rel="noopener noreferrer">Fast.com</a> - Simple Netflix Powered Speed Test</li>
+<li><a href="https://speed.cloudflare.com/" target="_blank" rel="noopener noreferrer">Cloudflare Speed Test</a> - Detailed Network Performance Speed Test</li>
+<li><a href="https://openspeedtest.com/" target="_blank" rel="noopener noreferrer">OpenSpeedTest</a> - HTML5 Network Speed Testing Tool</li>
+<li><a href="https://speedtest.net/" target="_blank" rel="noopener noreferrer">Speedtest by Ookla</a> - Popular Global Internet Speed Test</li>
+</ul>
+<h2 id="link-in-bio" tabindex="-1"><a class="header-anchor" href="#link-in-bio"><span>Link In Bio</span></a></h2>
+<p>For creating custom landing pages to display multiple links:<br>
+(All of these provide unlimited links and custom URLs)</p>
+<h4 id="link-in-bio-1" tabindex="-1"><a class="header-anchor" href="#link-in-bio-1"><span>Link In Bio</span></a></h4>
+<ul>
+<li><a href="https://linktr.ee/" target="_blank" rel="noopener noreferrer">Linktree</a> - Popular Social Media Landing Page</li>
+<li><a href="https://linkstack.org/" target="_blank" rel="noopener noreferrer">LinkStack</a> - Self Hosted Link Bio Manager</li>
+<li><a href="https://carrd.co/" target="_blank" rel="noopener noreferrer">Carrd</a> - Simple One Page Website Builder</li>
+<li><a href="https://bio.link/" target="_blank" rel="noopener noreferrer">Bio.link</a> - Clean Social Media Profile Links</li>
+<li><a href="https://bento.me/" target="_blank" rel="noopener noreferrer">Bento</a> - Modern Personal Link Bio Page</li>
+<li><a href="https://linkbun.io/" target="_blank" rel="noopener noreferrer">Linkbun</a> - Fast Minimalist Link Sharing Tool</li>
+<li><a href="https://alsoat.app/" target="_blank" rel="noopener noreferrer">Alsoat</a> - Elegant Social Media Link Pages</li>
+<li><a href="https://mylinx.cc/" target="_blank" rel="noopener noreferrer">Mylinx</a> - Customizable Link In Bio Page</li>
+<li><a href="https://linkr.com/" target="_blank" rel="noopener noreferrer">Linkr</a> - Professional Bio Link Page Builder</li>
+</ul>
+<h2 id="captcha-tools" tabindex="-1"><a class="header-anchor" href="#captcha-tools"><span>Captcha Tools</span></a></h2>
+<p>Tools to bypass captchas on websites:</p>
+<ul>
+<li><a href="https://github.com/dessant/buster" target="_blank" rel="noopener noreferrer">Buster</a> - Automatic Browser Captcha Solver Extension</li>
+<li><a href="https://nopecha.com/" target="_blank" rel="noopener noreferrer">NopeCHA</a> - AI Powered Captcha Solving Service</li>
+<li><a href="https://github.com/cloudflare/pp-browser-extension" target="_blank" rel="noopener noreferrer">Privacy Pass Extension</a> - Cloudflare Captcha Bypass Token Tool</li>
+</ul>
+<h2 id="rss-tools-index" tabindex="-1"><a class="header-anchor" href="#rss-tools-index"><span>RSS Tools Index</span></a></h2>
+<p>Used for aggregating and delivering updated online content feeds:</p>
+<ul>
+<li><a href="https://github.com/AboutRSS/ALL-about-RSS" target="_blank" rel="noopener noreferrer">All About RSS</a> - Comprehensive List of RSS Resources</li>
+<li><a href="https://rentry.org/rrstango" target="_blank" rel="noopener noreferrer">RSS Tango</a> - Curated Collection of RSS Tools</li>
+<li><a href="https://feedbutler.app/" target="_blank" rel="noopener noreferrer">Feedbutler</a> - Get RSS Feeds via Email</li>
+<li><a href="https://siftrss.com/" target="_blank" rel="noopener noreferrer">siftrss</a> - Filter and Modify RSS Feeds</li>
+<li><a href="https://rss.app/" target="_blank" rel="noopener noreferrer">RSS.app</a> - Search and Discover RSS Feeds</li>
+<li><a href="https://feedle.world/" target="_blank" rel="noopener noreferrer">feedle</a> - Search Engine for RSS Feeds</li>
+<li><a href="https://github.com/Reeywhaar/want-my-rss" target="_blank" rel="noopener noreferrer">Want My RSS</a> - Firefox Extension for RSS Discovery</li>
+</ul>
+<h2 id="rss-readers" tabindex="-1"><a class="header-anchor" href="#rss-readers"><span>RSS Readers</span></a></h2>
+<p>For organizing and displaying RSS Feeds:</p>
+<ul>
+<li><a href="https://openrss.org/rss-feed-readers" target="_blank" rel="noopener noreferrer">Open RSS Feed Readers</a> - Curated Index of Feed Readers</li>
+</ul>
+<h4 id="rss-readers-1" tabindex="-1"><a class="header-anchor" href="#rss-readers-1"><span>RSS Readers</span></a></h4>
+<ul>
+<li><a href="https://feedly.com/" target="_blank" rel="noopener noreferrer">Feedly</a> - Popular Cloud Based Feed Reader</li>
+<li><a href="https://github.com/martinrotter/rssguard" target="_blank" rel="noopener noreferrer">RSS Guard</a> - Powerful Desktop RSS Feed Client</li>
+<li><a href="https://www.inoreader.com/" target="_blank" rel="noopener noreferrer">Inoreader</a> - Advanced Feature Rich News Reader</li>
+<li><a href="https://nodetics.com/feedbro/" target="_blank" rel="noopener noreferrer">Feedbro</a> - Advanced Browser Based Feed Reader | <a href="https://nodetics.com/feedbro/" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:puzzle" /></a></li>
+<li><a href="https://www.newsblur.com/" target="_blank" rel="noopener noreferrer">NewsBlur</a> - Social Personalized News Feed Reader</li>
+<li><a href="https://hyliu.me/fluent-reader/" target="_blank" rel="noopener noreferrer">Fluent Reader</a> - Modern Cross Platform News Client</li>
+<li><a href="https://www.feedflow.dev/" target="_blank" rel="noopener noreferrer">FeedFlow</a> - Minimalist Android iOS Feed Reader</li>
+</ul>
+<h2 id="rss-feed-generators" tabindex="-1"><a class="header-anchor" href="#rss-feed-generators"><span>RSS Feed Generators</span></a></h2>
+<p>To create custom feeds from website contents:</p>
+<h4 id="rss-feed-generators-1" tabindex="-1"><a class="header-anchor" href="#rss-feed-generators-1"><span>RSS Feed Generators</span></a></h4>
+<ul>
+<li><a href="https://rss-bridge.org/bridge01/" target="_blank" rel="noopener noreferrer">RSS-Bridge</a> - Generate Feeds for Any Website</li>
+<li><a href="https://feedless.org/" target="_blank" rel="noopener noreferrer">Feedless</a> - Create RSS Feeds from Pages</li>
+<li><a href="https://morss.it/" target="_blank" rel="noopener noreferrer">morss</a> - Get Full Content RSS Feeds</li>
+<li><a href="https://github.com/DIYgod/RSSHub" target="_blank" rel="noopener noreferrer">RSSHub</a> - Open Source Feed Generation Tool</li>
+<li><a href="https://openrss.org/" target="_blank" rel="noopener noreferrer">Open RSS</a> - Generate Feeds for Social Media</li>
+<li><a href="https://rss-finder.rook1e.com/" target="_blank" rel="noopener noreferrer">RSS Finder</a> - Find RSS Feeds for Websites</li>
+<li><a href="https://fetchrss.com/" target="_blank" rel="noopener noreferrer">FetchRSS</a> - Turn Any Website Into RSS</li>
+<li><a href="https://rss.diffbot.com/" target="_blank" rel="noopener noreferrer">Diffbot RSS</a> - AI Powered Web Feed Generator</li>
+</ul>
+<h2 id="search-tools" tabindex="-1"><a class="header-anchor" href="#search-tools"><span>Search Tools</span></a></h2>
+<p>A collection of useful search tools:</p>
+<ul>
+<li><a href="https://alsoasked.com/" target="_blank" rel="noopener noreferrer">AlsoAsked</a> - Discover Related Search Questions Tool</li>
+<li><a href="https://lumendatabase.org/" target="_blank" rel="noopener noreferrer">Lumen Database</a> - Search Legal Takedown Request Database</li>
+</ul>
+<h2 id="similar-sites-search" tabindex="-1"><a class="header-anchor" href="#similar-sites-search"><span>Similar Sites Search</span></a></h2>
+<p>For finding sites that are similar to ones you already know:</p>
+<h4 id="similar-sites-search-1" tabindex="-1"><a class="header-anchor" href="#similar-sites-search-1"><span>Similar Sites Search</span></a></h4>
+<ul>
+<li><a href="https://www.similarsitesearch.com/" target="_blank" rel="noopener noreferrer">SimilarSiteSearch</a> - Find Related and Alternative Websites</li>
+<li><a href="https://www.siteslike.com/" target="_blank" rel="noopener noreferrer">SitesLike</a> - Search for Similar Website Alternatives</li>
+<li><a href="https://topsimilarsites.com/" target="_blank" rel="noopener noreferrer">TopSimilarSites</a> - Discover Best Alternative Website Lists</li>
+<li><a href="https://similarsites.com/" target="_blank" rel="noopener noreferrer">SimilarSites</a> - Find Related Content and Competitors</li>
+<li><a href="https://www.sitelike.org/" target="_blank" rel="noopener noreferrer">SiteLike</a> - Explore Similar Sites and Alternatives</li>
+</ul>
+<h2 id="keyword-search" tabindex="-1"><a class="header-anchor" href="#keyword-search"><span>Keyword Search</span></a></h2>
+<p>These let you discover keyword trends:</p>
+<h4 id="keyword-search-1" tabindex="-1"><a class="header-anchor" href="#keyword-search-1"><span>Keyword Search</span></a></h4>
+<ul>
+<li><a href="https://www.seo.com/soovle/" target="_blank" rel="noopener noreferrer">Soovle</a> - Multi Engine Keyword Research Tool</li>
+<li><a href="https://www.keyword.io/" target="_blank" rel="noopener noreferrer">Keyword.io</a> - Comprehensive Keyword Research Tool</li>
+<li><a href="https://searchenginereports.net/" target="_blank" rel="noopener noreferrer">SearchEngineReports</a> - Free SEO and Keyword Tools</li>
+<li><a href="https://contentideas.io/" target="_blank" rel="noopener noreferrer">ContentIdeas</a> - Find Trending Content and Keywords</li>
+<li><a href="https://keywordtool.io/" target="_blank" rel="noopener noreferrer">Keyword Tool</a> - Google Autocomplete Keyword Research Tool</li>
+</ul>
+<h2 id="search-engines" tabindex="-1"><a class="header-anchor" href="#search-engines"><span>Search Engines</span></a></h2>
+<p>Alternatives to Google Search:</p>
+<h4 id="search-engines-1" tabindex="-1"><a class="header-anchor" href="#search-engines-1"><span>Search Engines</span></a></h4>
+<ul>
+<li><a href="https://yandex.com/" target="_blank" rel="noopener noreferrer">Yandex</a> - Powerful Russian Based Search Engine</li>
+<li><a href="https://oceanhero.today/" target="_blank" rel="noopener noreferrer">OceanHero</a> - Search Engine to Save Oceans</li>
+<li><a href="https://www.ecosia.org/" target="_blank" rel="noopener noreferrer">Ecosia</a> - Search Engine that Plants Trees</li>
+<li><a href="https://presearch.com/" target="_blank" rel="noopener noreferrer">Presearch</a> - Decentralized Blockchain Based Search Engine</li>
+<li><a href="https://www.bing.com/" target="_blank" rel="noopener noreferrer">Bing</a> - Microsoft Search Engine with AI</li>
+<li><a href="https://www.webcrawler.com/" target="_blank" rel="noopener noreferrer">WebCrawler</a> - Classic Multi Engine Meta Searcher</li>
+<li><a href="https://marginalia-search.com/" target="_blank" rel="noopener noreferrer">Marginalia Search</a> - Search for Independent Small Websites</li>
+<li><a href="https://millionshort.com/" target="_blank" rel="noopener noreferrer">Million Short</a> - Search Without Top Popular Results</li>
+<li><a href="https://vuhuv.com/" target="_blank" rel="noopener noreferrer">Vuhuv</a> - Private Independent Web Search Engine</li>
+<li><a href="https://search.carrot2.org/#/" target="_blank" rel="noopener noreferrer">Carrot2 Search</a> - Search Results Clustering and Visualization</li>
+<li><a href="https://serjsx.github.io/wpSearch/" target="_blank" rel="noopener noreferrer">wpSearch</a> - Specialized Search for Pirated Content</li>
+<li><a href="https://www.searchenginemap.com/" target="_blank" rel="noopener noreferrer">Search Engine Map</a> - Map of Search Engine Connections</li>
+</ul>
+<h4 id="awesome-custom-search-engine-collections" tabindex="-1"><a class="header-anchor" href="#awesome-custom-search-engine-collections"><span>Awesome Custom Search Engine Collections</span></a></h4>
+<ul>
+<li><a href="https://start.me/p/EL84Km/cse-utopia" target="_blank" rel="noopener noreferrer">CSE Utopia</a> - Curated Custom Search Engine List</li>
+<li><a href="https://github.com/davzoku/awesome-custom-search-engines" target="_blank" rel="noopener noreferrer">Awesome CSEs</a> - List of Custom Search Engines</li>
+</ul>
+<h2 id="search-engine-indexes" tabindex="-1"><a class="header-anchor" href="#search-engine-indexes"><span>Search Engine Indexes</span></a></h2>
+<h4 id="search-engine-indexes-1" tabindex="-1"><a class="header-anchor" href="#search-engine-indexes-1"><span>Search Engine Indexes</span></a></h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_search_engines" target="_blank" rel="noopener noreferrer">Wikipedia List of Search Engines</a> - Comprehensive List of Search Engines</li>
+<li><a href="https://start.me/p/nRADzL/advanced-search-tools" target="_blank" rel="noopener noreferrer">Advanced Search Tools Start.me</a> - Collection of Advanced Search Tools</li>
+<li><a href="https://start.me/p/wM7y15/search-engine" target="_blank" rel="noopener noreferrer">Other Search Tools Start.me</a> - Curated List of Search Engines</li>
+<li><a href="http://www.directsearch.net/" target="_blank" rel="noopener noreferrer">Direct Search</a> - Search Engine Resource and Index</li>
+</ul>
+<h2 id="multi-site-search-tools" tabindex="-1"><a class="header-anchor" href="#multi-site-search-tools"><span>Multi-Site Search Tools</span></a></h2>
+<p>These let you search with multiple engines from one place:</p>
+<h4 id="multi-site-search-tools-1" tabindex="-1"><a class="header-anchor" href="#multi-site-search-tools-1"><span>Multi-Site Search Tools</span></a></h4>
+<ul>
+<li><a href="https://www.faganfinder.com/" target="_blank" rel="noopener noreferrer">Fagan Finder</a> - Advanced Multi Engine Search Tool</li>
+<li><a href="https://www.searchall.net/" target="_blank" rel="noopener noreferrer">Searchall</a> - Search Multiple Websites At Once</li>
+<li><a href="https://jumps.io/" target="_blank" rel="noopener noreferrer">Jumps</a> - Navigate Multiple Search Engines Quickly</li>
+<li><a href="https://web-sites-search.web.app/" target="_blank" rel="noopener noreferrer">Web Sites Search</a> - Simple Multi Site Search Interface</li>
+<li><a href="https://combinedsearch.io/" target="_blank" rel="noopener noreferrer">Combined Search</a> - Meta Search Engine for Everything</li>
+<li><a href="https://www.gnod.com/search/" target="_blank" rel="noopener noreferrer">Gnod Search</a> - AI Powered Search Recommendation Engine</li>
+</ul>
+<h2 id="google-search-tools" tabindex="-1"><a class="header-anchor" href="#google-search-tools"><span>Google Search Tools</span></a></h2>
+<p>A collection of Google Search tweaks:</p>
+<ul>
+<li><a href="https://searchtweaks.com/" target="_blank" rel="noopener noreferrer">Search Tweaks</a> - Enhance Google Search Results Tool</li>
+<li><a href="https://isearchfrom.com/" target="_blank" rel="noopener noreferrer">I Search From</a> - Simulate Google Search from Locations</li>
+<li><a href="https://trends.google.com/trends/" target="_blank" rel="noopener noreferrer">Google Trends</a> - Explore Trending Search Data Insights</li>
+</ul>
+<h4 id="google-search-operators-resources" tabindex="-1"><a class="header-anchor" href="#google-search-operators-resources"><span>Google Search Operators Resources</span></a></h4>
+<ul>
+<li><a href="https://moz.com/blog/mastering-google-search-operators-in-67-steps" target="_blank" rel="noopener noreferrer">67 Search Operators</a> - Guide to Advanced Search Operators</li>
+<li><a href="https://ahrefs.com/blog/google-advanced-search-operators/" target="_blank" rel="noopener noreferrer">44 Search Operators</a> - Useful Google Search Operator List</li>
+<li><a href="https://seranking.com/ru/blog/operatory-poiska-google/" target="_blank" rel="noopener noreferrer">30 Search Operators</a> - Advanced Google Search Command Guide</li>
+</ul>
+<h2 id="url-tools" tabindex="-1"><a class="header-anchor" href="#url-tools"><span>URL Tools</span></a></h2>
+<p>A collection of useful URL tools:</p>
+<ul>
+<li><a href="https://flagfox.wordpress.com/" target="_blank" rel="noopener noreferrer">Flagfox</a> - Browser Extension for Server Location</li>
+<li><a href="https://httpstatus.io/" target="_blank" rel="noopener noreferrer">httpstatus.io</a> - Bulk URL HTTP Status Checker</li>
+<li><a href="https://wheregoes.com/" target="_blank" rel="noopener noreferrer">WhereGoes</a> - Trace URL Redirect and Hops</li>
+<li><a href="https://barcodrod.io/" target="_blank" rel="noopener noreferrer">BarcodeRod</a> - Online Barcode and QR Scanner</li>
+<li><a href="https://qrcodescan.in/" target="_blank" rel="noopener noreferrer">QR Code Scan</a> - Web Based QR Code Scanner</li>
+<li><a href="https://rekulous.github.io/link-lock/" target="_blank" rel="noopener noreferrer">Link Lock</a> - Encrypt and Password Protect Links</li>
+<li><a href="https://scrt.link/" target="_blank" rel="noopener noreferrer">Secret Link</a> - Create Burn On Read Links</li>
+<li><a href="https://www.temporary-url.com/" target="_blank" rel="noopener noreferrer">Temporary URL</a> - Self Destructing Link Creation Tool</li>
+</ul>
+<h4 id="generate-qr-codes" tabindex="-1"><a class="header-anchor" href="#generate-qr-codes"><span>Generate QR Codes</span></a></h4>
+<ul>
+<li><a href="https://www.qrcodly.de/" target="_blank" rel="noopener noreferrer">QR Code Generator</a> - Simple Online QR Code Creator</li>
+<li><a href="https://www.qr-code-generator.com/" target="_blank" rel="noopener noreferrer">QR Code Generator</a> - Professional QR Code Creation Tool</li>
+<li><a href="https://www.qrcode-monkey.com/" target="_blank" rel="noopener noreferrer">QRCode Monkey</a> - Free High Quality QR Generator</li>
+</ul>
+<h2 id="url-shorteners" tabindex="-1"><a class="header-anchor" href="#url-shorteners"><span>URL Shorteners</span></a></h2>
+<p>These provide a short link so you don't have to send long URLs:</p>
+<h4 id="url-shorteners-1" tabindex="-1"><a class="header-anchor" href="#url-shorteners-1"><span>URL Shorteners</span></a></h4>
+<ul>
+<li><a href="https://spoo.me/" target="_blank" rel="noopener noreferrer">Spoo.me</a> - Modern Simple URL Shortening Service</li>
+<li><a href="https://t.ly/" target="_blank" rel="noopener noreferrer">T.ly</a> - Fast and Reliable Link Shortener</li>
+<li><a href="https://www.is.gd/" target="_blank" rel="noopener noreferrer">Is.gd</a> - Simple Minimalist URL Shortener</li>
+<li><a href="https://v.gd/" target="_blank" rel="noopener noreferrer">V.gd</a> - Ethical Shortener with Link Preview</li>
+<li><a href="https://x.gd/" target="_blank" rel="noopener noreferrer">X.gd</a> - Quick and Easy Link Shortener</li>
+<li><a href="https://smartlnks.com/" target="_blank" rel="noopener noreferrer">SmartLnks</a> - Advanced Custom URL Shortening Tool</li>
+<li><a href="https://tinyurl.com/" target="_blank" rel="noopener noreferrer">TinyURL</a> - Classic Original Link Shortening Service</li>
+<li><a href="https://1kb.link/" target="_blank" rel="noopener noreferrer">1kb Link</a> - Privacy Focused URL Shortening Tool</li>
+<li><a href="https://picsee.io/" target="_blank" rel="noopener noreferrer">PicSee</a> - Shortener for Social Media Marketing</li>
+</ul>
+<h2 id="url-unshorteners" tabindex="-1"><a class="header-anchor" href="#url-unshorteners"><span>URL Unshorteners</span></a></h2>
+<p>Preview shortened URLs before clicking:</p>
+<h4 id="url-unshorteners-1" tabindex="-1"><a class="header-anchor" href="#url-unshorteners-1"><span>URL Unshorteners</span></a></h4>
+<ul>
+<li><a href="https://checkshorturl.com/" target="_blank" rel="noopener noreferrer">CheckShortURL</a> - Preview Shortened Link Destinations Safely</li>
+<li><a href="https://www.expandurl.net/" target="_blank" rel="noopener noreferrer">ExpandURL</a> - Reveal Original Long URL Path</li>
+<li><a href="https://unshorten.me/" target="_blank" rel="noopener noreferrer">Unshorten.me</a> - Free URL Unshortening API Tool</li>
+<li><a href="https://t.ly/tools/link-expander/" target="_blank" rel="noopener noreferrer">T.ly Link Expander</a> - <a href="http://T.ly" target="_blank" rel="noopener noreferrer">T.ly</a> Official URL Expansion Tool</li>
+</ul>
+<h2 id="down-site-checkers" tabindex="-1"><a class="header-anchor" href="#down-site-checkers"><span>Down Site Checkers</span></a></h2>
+<p>Check if a website is down, or if it's just you:</p>
+<h4 id="down-site-checkers-1" tabindex="-1"><a class="header-anchor" href="#down-site-checkers-1"><span>Down Site Checkers</span></a></h4>
+<ul>
+<li><a href="https://downforeveryoneorjustme.com/" target="_blank" rel="noopener noreferrer">Down For Everyone Or Just Me</a> - Check Website Status and Accessibility</li>
+<li><a href="https://downdetector.com/" target="_blank" rel="noopener noreferrer">Downdetector</a> - Real Time Website Outage Monitoring</li>
+<li><a href="https://istheservicedown.com/" target="_blank" rel="noopener noreferrer">Is The Service Down</a> - Track Global Service and Site Status</li>
+<li><a href="https://www.isitdownrightnow.com/" target="_blank" rel="noopener noreferrer">Is It Down Right Now</a> - Live Website Status Check Tool</li>
+<li><a href="https://www.websitedown.info/" target="_blank" rel="noopener noreferrer">Website Down</a> - Check if Websites are Down</li>
+<li><a href="https://www.deadlinkchecker.com/" target="_blank" rel="noopener noreferrer">Dead Link Checker</a> - Scan Websites for Broken Links</li>
+</ul>
+<h2 id="email-tools" tabindex="-1"><a class="header-anchor" href="#email-tools"><span>Email Tools</span></a></h2>
+<p>A collection of useful email tools:</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Comparison_of_webmail_providers" target="_blank" rel="noopener noreferrer">Comparison of Webmail Providers</a> - Detailed Comparison of Email Services</li>
+<li><a href="http://scr.im/" target="_blank" rel="noopener noreferrer">scr.im</a> - Protect Email from Web Scrapers</li>
+<li><a href="https://inboxreads.co/" target="_blank" rel="noopener noreferrer">InboxReads</a> - Discover and Subscribe to Newsletters</li>
+<li><a href="https://readsom.com/" target="_blank" rel="noopener noreferrer">Readsom</a> - Find Your Next Favorite Newsletter</li>
+</ul>
+<h4 id="email-scheduling-and-reminders" tabindex="-1"><a class="header-anchor" href="#email-scheduling-and-reminders"><span>Email Scheduling and Reminders</span></a></h4>
+<ul>
+<li><a href="https://www.boomeranggmail.com/" target="_blank" rel="noopener noreferrer">Boomerang for Gmail</a> - Schedule Emails and Set Reminders</li>
+<li><a href="https://nudgemail.com/" target="_blank" rel="noopener noreferrer">Nudgemail</a> - Simple Email Based Reminder Service</li>
+<li><a href="https://www.followupthen.com/" target="_blank" rel="noopener noreferrer">FollowUpThen</a> - Automatic Email Follow Up Reminders</li>
+</ul>
+<h2 id="email-clients" tabindex="-1"><a class="header-anchor" href="#email-clients"><span>Email Clients</span></a></h2>
+<p>A collection of email clients to manage your email IDs:</p>
+<h4 id="email-clients-1" tabindex="-1"><a class="header-anchor" href="#email-clients-1"><span>Email Clients</span></a></h4>
+<ul>
+<li><a href="https://www.betterbird.eu/" target="_blank" rel="noopener noreferrer">Betterbird</a> - Enhanced Version of Mozilla Thunderbird</li>
+<li><a href="https://www.thunderbird.net/" target="_blank" rel="noopener noreferrer">Thunderbird</a> - Popular Open Source Email Client</li>
+<li><a href="https://www.getmailspring.com/" target="_blank" rel="noopener noreferrer">Mailspring</a> - Modern and Extensible Email Client</li>
+<li><a href="https://github.com/vladimiry/ElectronMail" target="_blank" rel="noopener noreferrer">ElectronMail</a> - Desktop Client for Proton Mail</li>
+<li><a href="https://www.emclient.com/" target="_blank" rel="noopener noreferrer">eM Client</a> - Feature Rich Windows Email Client</li>
+<li><a href="https://roundcube.net/" target="_blank" rel="noopener noreferrer">Roundcube</a> - Browser Based Multilingual Email Client</li>
+</ul>
+<h2 id="browser-bookmarks" tabindex="-1"><a class="header-anchor" href="#browser-bookmarks"><span>Browser Bookmarks</span></a></h2>
+<p>For better management of your browser bookmarks:</p>
+<ul>
+<li><a href="https://floccus.org/" target="_blank" rel="noopener noreferrer">Floccus</a> - Open Source Bookmark Sync Tool</li>
+<li><a href="https://github.com/dudor/BookmarkHub" target="_blank" rel="noopener noreferrer">BookmarkHub</a> - Sync Bookmarks via GitHub Gist</li>
+<li><a href="https://supermemory.ai/" target="_blank" rel="noopener noreferrer">Supermemory</a> - Personal AI Powered Knowledge Base</li>
+<li><a href="https://github.com/cadeyrn/bookmarks-organizer" target="_blank" rel="noopener noreferrer">Bookmarks Organizer</a> - Organize and Clean Browser Bookmarks</li>
+<li><a href="https://chromewebstore.google.com/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl" target="_blank" rel="noopener noreferrer">Bookmarks Clean Up</a> - Remove Duplicate and Broken Bookmarks</li>
+</ul>
+<h2 id="bookmark-managers" tabindex="-1"><a class="header-anchor" href="#bookmark-managers"><span>Bookmark Managers</span></a></h2>
+<p>Web based bookmark managers:</p>
+<h4 id="bookmark-managers-1" tabindex="-1"><a class="header-anchor" href="#bookmark-managers-1"><span>Bookmark Managers</span></a></h4>
+<ul>
+<li><a href="https://raindrop.io/" target="_blank" rel="noopener noreferrer">Raindrop.io</a> - All In One Bookmark Manager</li>
+<li><a href="https://about.start.me/" target="_blank" rel="noopener noreferrer">Start.me</a> - Customizable Personal Browser Start Page</li>
+<li><a href="https://bort.io/" target="_blank" rel="noopener noreferrer">Bort</a> - Dropbox Based Simple Bookmark Tool</li>
+<li><a href="https://wallabag.org/" target="_blank" rel="noopener noreferrer">Wallabag</a> - Self Hosted Read It Later</li>
+<li><a href="https://www.dropmark.com/" target="_blank" rel="noopener noreferrer">Dropmark</a> - Organize Links Files and Notes</li>
+<li><a href="https://keepthis.site/" target="_blank" rel="noopener noreferrer">KeepThis</a> - Simple and Minimal Bookmark Tool</li>
+<li><a href="https://tryzulu.com/" target="_blank" rel="noopener noreferrer">TryZulu</a> - Modern Collaborative Bookmark Management Tool</li>
+</ul>
+<h2 id="browser-tools" tabindex="-1"><a class="header-anchor" href="#browser-tools"><span>Browser Tools</span></a></h2>
+<p>A collection of useful browser resources:</p>
+<ul>
+<li><a href="https://privacytests.org/" target="_blank" rel="noopener noreferrer">PrivacyTests</a> - Open Source Web Browser Comparisons</li>
+<li><a href="https://eylenburg.github.io/browser_comparison.htm" target="_blank" rel="noopener noreferrer">Browser Comparison</a> - Detailed Web Browser Feature Comparison</li>
+<li><a href="https://browserbench.org/" target="_blank" rel="noopener noreferrer">BrowserBench</a> - Standard Web Browser Performance Benchmarks</li>
+<li><a href="https://wpt.fyi/" target="_blank" rel="noopener noreferrer">WPT.fyi</a> - Web Platform Compatibility Test Results</li>
+<li><a href="https://www.browserling.com/" target="_blank" rel="noopener noreferrer">Browserling</a> - Interactive Online Browser Testing Tool</li>
+</ul>
+</div></template>
+
+

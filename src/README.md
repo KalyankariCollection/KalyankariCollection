@@ -1,0 +1,96 @@
+---
+home: true
+icon: fa6-solid:house
+title: Kalyankari Collection
+heroText: Kalyankari Collection
+tagline: A curated wiki of useful links, tools, and resources.
+actions:
+  - text: Browse the Wiki
+    icon: fa6-solid:book
+    link: ./wiki/
+    type: primary
+features:
+  - title: Android
+    icon: fa6-solid:mobile
+    details: Resources and tools for the Android operating system.
+    link: /wiki/Android.html
+  - title: Artificial Intelligence
+    icon: fa6-solid:robot
+    details: AI models, tools, and machine learning resources.
+    link: /wiki/Artificial Intelligence.html
+  - title: Audio
+    icon: fa6-solid:headphones
+    details: Music, podcasts, and audio-related tools.
+    link: /wiki/Audio.html
+  - title: Books
+    icon: fa6-solid:book-open
+    details: E-books, reading materials, and literature resources.
+    link: /wiki/Books.html
+  - title: Documents
+    icon: fa6-solid:file-lines
+    details: Document editors, PDF tools, and office suites.
+    link: /wiki/Documents.html
+  - title: Downloading
+    icon: fa6-solid:download
+    details: Download managers, torrent clients, and file fetching.
+    link: /wiki/Downloading.html
+  - title: Educational
+    icon: fa6-solid:graduation-cap
+    details: Learning platforms, courses, and educational materials.
+    link: /wiki/Educational.html
+  - title: Files
+    icon: fa6-solid:folder-open
+    details: File management, cloud storage, and syncing solutions.
+    link: /wiki/Files.html
+  - title: Images
+    icon: fa6-solid:image
+    details: Image editors, galleries, and graphic design tools.
+    link: /wiki/Images.html
+  - title: iOS
+    icon: fa6-solid:mobile
+    details: Resources and tools for Apple's iOS platform.
+    link: /wiki/iOS.html
+  - title: MacOS
+    icon: fa6-solid:desktop
+    details: Software and utilities for Apple's macOS.
+    link: /wiki/MacOS.html
+  - title: Miscellaneous
+    icon: fa6-solid:box-open
+    details: Various tools and resources that do not fit other categories.
+    link: /wiki/Miscellaneous.html
+  - title: Privacy
+    icon: fa6-solid:user-secret
+    details: Adblockers, privacy tools, and tracker prevention.
+    link: /wiki/Privacy.html
+  - title: Security
+    icon: fa6-solid:shield-halved
+    details: Password managers, encryption, and security software.
+    link: /wiki/Security.html
+  - title: Self-Improvement
+    icon: fa6-solid:arrow-trend-up
+    details: Productivity tools, habit trackers, and personal growth.
+    link: /wiki/Self-Improvement.html
+  - title: Social Media
+    icon: fa6-solid:hashtag
+    details: Social network clients and management tools.
+    link: /wiki/Social Media.html
+  - title: Text
+    icon: fa6-solid:font
+    details: Text editors, markdown tools, and note-taking apps.
+    link: /wiki/Text.html
+  - title: Videos
+    icon: fa6-solid:film
+    details: Video players, streaming platforms, and editors.
+    link: /wiki/Videos.html
+  - title: Web
+    icon: fa6-solid:globe
+    details: Web browsers, extensions, and internet tools.
+    link: /wiki/Web.html
+  - title: Windows
+    icon: fa6-solid:desktop
+    details: Software, debloat scripts, and utilities for Windows.
+    link: /wiki/Windows.html
+
+copyright: false
+footer: Kalyankari Collection
+---

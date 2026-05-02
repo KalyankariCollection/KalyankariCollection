@@ -1,0 +1,210 @@
+<template><div><h1 id="privacy" tabindex="-1"><a class="header-anchor" href="#privacy"><span>Privacy</span></a></h1>
+<h2 id="browser-adblocking" tabindex="-1"><a class="header-anchor" href="#browser-adblocking"><span>Browser Adblocking</span></a></h2>
+<p>For a cleaner experience while browsing:</p>
+<ul>
+<li><a href="https://ublockorigin.com/" target="_blank" rel="noopener noreferrer">uBlock Origin</a> - Powerful Open Source Adblocker | <a href="https://github.com/gorhill/uBlock" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a> | <a href="https://youtu.be/2lisQQmWQkY" target="_blank" rel="noopener noreferrer"><VPIcon icon="tdesign:video" /></a> | <a href="https://t.me/c/2238994015/1/739" target="_blank" rel="noopener noreferrer">Recommended Filters</a></li>
+<li><a href="https://github.com/uBlockOrigin/uBOL-home" target="_blank" rel="noopener noreferrer">uBOL</a> - MV3 Compatible Chrome Adblocker</li>
+<li><a href="https://github.com/AdguardTeam/AdguardBrowserExtension" target="_blank" rel="noopener noreferrer">AdGuard Browser Extension</a> - Feature Rich Browser Adblocker</li>
+<li><a href="https://sponsor.ajay.app/" target="_blank" rel="noopener noreferrer">SponsorBlock</a> - Skip YouTube Sponsored Segments | <a href="https://github.com/ajayyy/SponsorBlock" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+</ul>
+<h2 id="dns-adblocking" tabindex="-1"><a class="header-anchor" href="#dns-adblocking"><span>DNS Adblocking</span></a></h2>
+<p>Used for network-wide adblocking</p>
+<div class="hint-container warning">
+<p class="hint-container-title">Conflict Warning</p>
+<p>Don't use along with browser adblockers as additional filters can cause conflicts</p>
+</div>
+<ul>
+<li><a href="https://pi-hole.net/" target="_blank" rel="noopener noreferrer">Pi-hole</a> - Self Hosted Network Adblocker</li>
+<li><a href="https://adguard-dns.io/kb/general/dns-providers/" target="_blank" rel="noopener noreferrer">AdGuard DNS</a> - Public DNS Adblocking Service</li>
+<li><a href="https://nextdns.io/" target="_blank" rel="noopener noreferrer">NextDNS</a> - Customizable Cloud DNS Firewall</li>
+<li><a href="https://libredns.gr/" target="_blank" rel="noopener noreferrer">LibreDNS</a> - Free Private DNS Service</li>
+</ul>
+<h2 id="redirect-bypass" tabindex="-1"><a class="header-anchor" href="#redirect-bypass"><span>Redirect Bypass</span></a></h2>
+<p>To skip redirect pages filled with ads:</p>
+<ul>
+<li><a href="https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/" target="_blank" rel="noopener noreferrer">Bypass All Shortlinks</a> - Open Source Redirect Bypasser</li>
+</ul>
+<h4 id="redirect-bypass-1" tabindex="-1"><a class="header-anchor" href="#redirect-bypass-1"><span>Redirect Bypass</span></a></h4>
+<ul>
+<li><a href="https://bypass.vip/" target="_blank" rel="noopener noreferrer">Bypass.vip</a> - Skip Annoying Shortener Links</li>
+<li><a href="https://bypass.link/" target="_blank" rel="noopener noreferrer">Bypass.link</a> - Online Shortlink Bypass Tool</li>
+<li><a href="https://bypass.city/" target="_blank" rel="noopener noreferrer">Bypass.city</a> - Bypass Adfly and Shortlinks</li>
+<li><a href="https://bypassunlock.com/" target="_blank" rel="noopener noreferrer">BypassUnlock</a> - Universal Shortlink Bypassing Site</li>
+</ul>
+<h2 id="windows-privacy" tabindex="-1"><a class="header-anchor" href="#windows-privacy"><span>Windows Privacy</span></a></h2>
+<p>Antispy tools to take back control of your privacy from Microsoft:</p>
+<ul>
+<li><a href="https://www.oo-software.com/en/shutup10" target="_blank" rel="noopener noreferrer">O&amp;O ShutUp10</a> - Disable Windows Telemetry Settings</li>
+<li><a href="https://www.w10privacy.de/english-home/" target="_blank" rel="noopener noreferrer">W10Privacy</a> - Advanced Windows Privacy Tweaker</li>
+<li><a href="https://www.malwarebytes.com/adwcleaner" target="_blank" rel="noopener noreferrer">AdwCleaner</a> - Clean Malicious Adware Files</li>
+<li><a href="https://rentry.co/b88ixo8f" target="_blank" rel="noopener noreferrer">Disable Recall</a> - Turn Off Windows Recall</li>
+<li><a href="https://privacy.sexy/" target="_blank" rel="noopener noreferrer">Privacy.sexy</a> - Privacy Scripts and Presets | <a href="https://t.me/c/2238994015/1/740" target="_blank" rel="noopener noreferrer">Presets</a></li>
+<li><a href="https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89" target="_blank" rel="noopener noreferrer">Disable Telemetry</a> - Block Usage Data Collection</li>
+</ul>
+<h2 id="self-destructing-messages" tabindex="-1"><a class="header-anchor" href="#self-destructing-messages"><span>Self-Destructing Messages</span></a></h2>
+<p>These sites let you share self-destructing notes/messages:</p>
+<h4 id="self-destructing-messages-1" tabindex="-1"><a class="header-anchor" href="#self-destructing-messages-1"><span>Self-Destructing Messages</span></a></h4>
+<ul>
+<li><a href="https://privnote.com/" target="_blank" rel="noopener noreferrer">Privnote</a> - Send Encrypted Self Destructing Notes</li>
+<li><a href="https://safenote.co/" target="_blank" rel="noopener noreferrer">SafeNote</a> - Share Secure Expiring Messages</li>
+<li><a href="https://burn.link/" target="_blank" rel="noopener noreferrer">Burn.link</a> - Create Self Erasing Links</li>
+<li><a href="https://thislinkwillselfdestruct.com/" target="_blank" rel="noopener noreferrer">This Link Will Self Destruct</a> - Simple Destructive Link Sharing</li>
+<li><a href="https://onetimesecret.com/" target="_blank" rel="noopener noreferrer">One Time Secret</a> - Share Sensitive One Time Information</li>
+<li><a href="https://s.cr/" target="_blank" rel="noopener noreferrer">S.cr</a> - Minimalist Secret Note Sharing</li>
+</ul>
+<h2 id="privacy-indexes" tabindex="-1"><a class="header-anchor" href="#privacy-indexes"><span>Privacy Indexes</span></a></h2>
+<p>Wonderful guides that help you secure your digital privacy!</p>
+<ul>
+<li><a href="https://digital-defense.io/" target="_blank" rel="noopener noreferrer">Digital Defense</a> - Comprehensive Privacy Security Checklist</li>
+</ul>
+<h4 id="privacy-guides" tabindex="-1"><a class="header-anchor" href="#privacy-guides"><span>Privacy Guides</span></a></h4>
+<ul>
+<li><a href="https://www.privacyguides.org/" target="_blank" rel="noopener noreferrer">Privacy Guides</a> - Reliable Digital Privacy Resources</li>
+<li><a href="https://thenewoil.org/" target="_blank" rel="noopener noreferrer">The New Oil</a> - Beginner Friendly Privacy Education</li>
+<li><a href="https://ssd.eff.org/" target="_blank" rel="noopener noreferrer">EFF's SSD</a> - Surveillance Self Defense Guide</li>
+<li><a href="https://cyber.kenharris.io/" target="_blank" rel="noopener noreferrer">Ken Harris Cyber</a> - Cyber Security Privacy Resources</li>
+<li><a href="https://privsec.dev/" target="_blank" rel="noopener noreferrer">PrivSec.dev</a> - Technical Privacy Security Blog</li>
+<li><a href="https://github.com/StellarSand/privacy-settings" target="_blank" rel="noopener noreferrer">Privacy Settings</a> - Guide to Account Privacy</li>
+</ul>
+<h2 id="privacy-apps" tabindex="-1"><a class="header-anchor" href="#privacy-apps"><span>Privacy Apps</span></a></h2>
+<p>Lists of apps/services that respect your privacy and don't sell your data:</p>
+<h4 id="privacy-apps-1" tabindex="-1"><a class="header-anchor" href="#privacy-apps-1"><span>Privacy Apps</span></a></h4>
+<ul>
+<li><a href="https://awesome-privacy.xyz/" target="_blank" rel="noopener noreferrer">Awesome Privacy</a> - Curated Privacy Tool List | <a href="https://github.com/lissy93/awesome-privacy" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+<li><a href="https://pluja.github.io/awesome-privacy/" target="_blank" rel="noopener noreferrer">Awesome Privacy (Pluja)</a> - Alternative Privacy Service List | <a href="https://github.com/pluja/awesome-privacy" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+<li><a href="https://encryptedlist.xyz/" target="_blank" rel="noopener noreferrer">Encrypted List</a> - List of Encrypted Services</li>
+</ul>
+<h2 id="google-alternatives" tabindex="-1"><a class="header-anchor" href="#google-alternatives"><span>Google Alternatives</span></a></h2>
+<p>Alternatives to Google products, that actually respect your privacy:</p>
+<ul>
+<li><a href="https://www.techspot.com/article/2752-all-google-alternatives/" target="_blank" rel="noopener noreferrer">All Google Alternatives</a> - Extensive Google Alternative List</li>
+<li><a href="https://nomoregoogle.com/" target="_blank" rel="noopener noreferrer">No More Google</a> - Find Alternatives to Google</li>
+</ul>
+<h2 id="encrypted-messengers" tabindex="-1"><a class="header-anchor" href="#encrypted-messengers"><span>Encrypted Messengers</span></a></h2>
+<p>Messaging services that respect user privacy</p>
+<div class="hint-container warning">
+<p class="hint-container-title">Privacy Disclaimer</p>
+<p>WhatsApp and Telegram are <strong>NOT</strong> completely private. Telegram messages aren't even encrypted by default, and WhatsApp regularly sends metadata. See this <a href="https://www.securemessagingapps.com/" target="_blank" rel="noopener noreferrer">comparison</a> OR <a href="https://eylenburg.github.io/im_comparison.htm" target="_blank" rel="noopener noreferrer">this</a> OR <a href="https://docs.google.com/spreadsheets/u/0/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU" target="_blank" rel="noopener noreferrer">this</a> for details</p>
+</div>
+<h4 id="encrypted-messengers-1" tabindex="-1"><a class="header-anchor" href="#encrypted-messengers-1"><span>Encrypted Messengers</span></a></h4>
+<ul>
+<li><a href="https://signal.org/" target="_blank" rel="noopener noreferrer">Signal</a> - Secure Private Messaging App | <a href="https://github.com/signalapp" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+<li><a href="https://simplex.chat/" target="_blank" rel="noopener noreferrer">SimpleX</a> - Anonymous Chat No ID | <a href="https://github.com/simplex-chat" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+<li><a href="https://getsession.org/" target="_blank" rel="noopener noreferrer">Session</a> - Private Onion Routed Messenger | <a href="https://github.com/session-foundation" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+<li><a href="https://keybase.io/" target="_blank" rel="noopener noreferrer">Keybase</a> - Encrypted Chat and Files | <a href="https://github.com/keybase/client" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+<li><a href="https://jami.net/" target="_blank" rel="noopener noreferrer">Jami</a> - Distributed P2P Communication Tool | <a href="https://git.jami.net/savoirfairelinux/jami-project" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+</ul>
+<h2 id="website-privacy" tabindex="-1"><a class="header-anchor" href="#website-privacy"><span>Website Privacy</span></a></h2>
+<p>A useful collection of Website Privacy Resources:</p>
+<ul>
+<li><a href="https://privacyspy.org/" target="_blank" rel="noopener noreferrer">PrivacySpy</a> - Privacy Policy Ratings Site</li>
+<li><a href="https://tosdr.org/" target="_blank" rel="noopener noreferrer">ToS;DR</a> - Terms of Service Summaries</li>
+<li><a href="https://justdeleteme.xyz/" target="_blank" rel="noopener noreferrer">JustDeleteMe</a> - Delete Web Account Directory</li>
+<li><a href="https://justgetmydata.com/" target="_blank" rel="noopener noreferrer">JustGetMyData</a> - Download Your Personal Data</li>
+</ul>
+<h2 id="sms-verification-sites" tabindex="-1"><a class="header-anchor" href="#sms-verification-sites"><span>SMS Verification Sites</span></a></h2>
+<p>These websites provide disposable numbers for SMS verification:</p>
+<h4 id="sms-verification-sites-1" tabindex="-1"><a class="header-anchor" href="#sms-verification-sites-1"><span>SMS Verification Sites</span></a></h4>
+<ul>
+<li><a href="https://smscodeonline.com/" target="_blank" rel="noopener noreferrer">SMSCodeOnline</a> - Free Online SMS Verification</li>
+<li><a href="https://www.receive-sms-online.info/" target="_blank" rel="noopener noreferrer">Receive SMS Online</a> - Receive Text Messages Online</li>
+<li><a href="https://tempsmss.com/" target="_blank" rel="noopener noreferrer">TempSMSS</a> - Temporary Phone Number Service</li>
+<li><a href="https://www.sms24.me/" target="_blank" rel="noopener noreferrer">SMS24</a> - Public SMS Verification Site</li>
+<li><a href="http://receive-sms.cc/" target="_blank" rel="noopener noreferrer">Receive-SMS</a> - Disposable Phone Number Inbox</li>
+<li><a href="https://temporarynumber.com/" target="_blank" rel="noopener noreferrer">Temporary Number</a> - Receive SMS for Free</li>
+<li><a href="https://getfreesmsnumber.com/" target="_blank" rel="noopener noreferrer">GetFreeSMSNumber</a> - Virtual SMS Verification Service</li>
+<li><a href="https://sms-receive.net/" target="_blank" rel="noopener noreferrer">SMS-Receive</a> - Free Virtual Phone Numbers</li>
+<li><a href="https://www.receivesmsonline.net/" target="_blank" rel="noopener noreferrer">ReceiveSMSOnline</a> - Temporary Mobile Number Site</li>
+<li><a href="https://temp-sms.org/" target="_blank" rel="noopener noreferrer">Temp-SMS</a> - Receive Verification Codes Online</li>
+</ul>
+<h2 id="temporary-email-sites" tabindex="-1"><a class="header-anchor" href="#temporary-email-sites"><span>Temporary Email Sites</span></a></h2>
+<p>These sites provide disposable email addresses for email verification:</p>
+<h4 id="temporary-email-sites-1" tabindex="-1"><a class="header-anchor" href="#temporary-email-sites-1"><span>Temporary Email Sites</span></a></h4>
+<ul>
+<li><a href="https://smailpro.com/temporary-email" target="_blank" rel="noopener noreferrer">SmailPro</a> - Advanced Disposable Email Service</li>
+<li><a href="https://zemail.me/" target="_blank" rel="noopener noreferrer">ZEmail</a> - Simple Temporary Mail Box</li>
+<li><a href="https://emailnator.com/" target="_blank" rel="noopener noreferrer">EmailNator</a> - Multi Domain Temp Mail</li>
+<li><a href="https://tempr.email/en/" target="_blank" rel="noopener noreferrer">Tempr</a> - Anonymous Temporary Email Inbox</li>
+<li><a href="https://inboxes.com/" target="_blank" rel="noopener noreferrer">Inboxes</a> - Fast Disposable Email Addresses</li>
+<li><a href="https://mail.tm/" target="_blank" rel="noopener noreferrer">Mail.tm</a> - Professional Temporary Email API</li>
+<li><a href="https://temp-mail.org/" target="_blank" rel="noopener noreferrer">Temp-Mail</a> - Popular Secure Temp Mail</li>
+<li><a href="https://temp-mail.io/" target="_blank" rel="noopener noreferrer">Temp-Mail.io</a> - Fast Clean Disposable Mail</li>
+<li><a href="https://www.guerrillamail.com/" target="_blank" rel="noopener noreferrer">Guerrilla Mail</a> - Classic Disposable Email Service</li>
+<li><a href="https://tmail.io/" target="_blank" rel="noopener noreferrer">Tmail</a> - High Quality Temp Emails</li>
+</ul>
+<h2 id="email-aliasing" tabindex="-1"><a class="header-anchor" href="#email-aliasing"><span>Email Aliasing</span></a></h2>
+<p>These services provide you with aliases that forward all mail to your real Email ID<br>
+(You can later delete the alias, and thus stop receiving forwarded mails)</p>
+<h4 id="email-aliasing-1" tabindex="-1"><a class="header-anchor" href="#email-aliasing-1"><span>Email Aliasing</span></a></h4>
+<ul>
+<li><a href="https://simplelogin.io/" target="_blank" rel="noopener noreferrer">SimpleLogin</a> - Advanced Email Alias Service | <a href="https://github.com/simple-login/app" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+<li><a href="https://addy.io/" target="_blank" rel="noopener noreferrer">Addy.io</a> - Open Source Email Forwarding | <a href="https://github.com/anonaddy/anonaddy" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+<li><a href="https://duckduckgo.com/email/" target="_blank" rel="noopener noreferrer">DuckDuckGo Email</a> - Privacy Protecting Email Forwarding</li>
+<li><a href="https://erine.email/" target="_blank" rel="noopener noreferrer">Erine</a> - Disposable Email Alias Service</li>
+<li><a href="https://33mail.com/" target="_blank" rel="noopener noreferrer">33mail</a> - Easy Email Alias Forwarding</li>
+<li><a href="https://forwardemail.net/" target="_blank" rel="noopener noreferrer">Forward Email</a> - Encrypted Email Forwarding Service | <a href="https://github.com/forwardemail/forwardemail.net" target="_blank" rel="noopener noreferrer"><VPIcon icon="mdi:github" /></a></li>
+</ul>
+<h2 id="email-services" tabindex="-1"><a class="header-anchor" href="#email-services"><span>Email Services</span></a></h2>
+<p>Private Email services that respect your privacy, i.e. Gmail alternatives:</p>
+<h4 id="email-services-1" tabindex="-1"><a class="header-anchor" href="#email-services-1"><span>Email Services</span></a></h4>
+<ul>
+<li><a href="https://proton.me/mail" target="_blank" rel="noopener noreferrer">Proton Mail</a> - Secure Encrypted Email Provider</li>
+<li><a href="https://tuta.com/" target="_blank" rel="noopener noreferrer">Tuta</a> - Encrypted Mail and Calendar</li>
+<li><a href="https://disroot.org/en/services/email" target="_blank" rel="noopener noreferrer">Disroot</a> - Privacy Centric Digital Services</li>
+<li><a href="https://mailfence.com/" target="_blank" rel="noopener noreferrer">Mailfence</a> - Secure Private Email Suite</li>
+</ul>
+<h2 id="private-search-engines" tabindex="-1"><a class="header-anchor" href="#private-search-engines"><span>Private Search Engines</span></a></h2>
+<p>Search engines that protect user privacy:</p>
+<ul>
+<li><a href="https://searchengine.party/" target="_blank" rel="noopener noreferrer">Search Engine Party</a> - Privacy Search Engine Comparison</li>
+<li><a href="https://searx.space" target="_blank" rel="noopener noreferrer">SearX</a> - Metasearch Engine Instance List</li>
+</ul>
+<h4 id="private-search-engines-1" tabindex="-1"><a class="header-anchor" href="#private-search-engines-1"><span>Private Search Engines</span></a></h4>
+<ul>
+<li><a href="https://searx.nixnet.services/" target="_blank" rel="noopener noreferrer">SearX (NixNet)</a> - Private Customizable Metasearch Engine</li>
+<li><a href="https://search.brave.com/" target="_blank" rel="noopener noreferrer">Brave Search</a> - Independent Private Search Index</li>
+<li><a href="https://start.duckduckgo.com/" target="_blank" rel="noopener noreferrer">DuckDuckGo</a> - Popular Privacy Search Engine</li>
+<li><a href="https://www.mojeek.com/" target="_blank" rel="noopener noreferrer">Mojeek</a> - No Tracking Search Engine</li>
+<li><a href="https://swisscows.com/" target="_blank" rel="noopener noreferrer">Swisscows</a> - Semantic Privacy Search Engine</li>
+<li><a href="https://www.startpage.com/" target="_blank" rel="noopener noreferrer">Startpage</a> - Private Google Search Results</li>
+<li><a href="https://gibiru.com/" target="_blank" rel="noopener noreferrer">Gibiru</a> - Unfiltered Private Search Engine</li>
+</ul>
+<h2 id="vpn-providers" tabindex="-1"><a class="header-anchor" href="#vpn-providers"><span>VPN Providers</span></a></h2>
+<p>VPNs protects your privacy and can bypass geo-restrictions. Recommended to use VPNs when torrenting</p>
+<div class="hint-container info">
+<p class="hint-container-title">Free VPN Note</p>
+<p>Generally, running free VPN services isn't feasible, so we have also listed those that provide a generous free plan</p>
+</div>
+<ul>
+<li><a href="https://techlore.tech/vpn/" target="_blank" rel="noopener noreferrer">Techlore VPN Comparison</a> - Detailed VPN Provider Comparison</li>
+</ul>
+<h4 id="vpn-providers-1" tabindex="-1"><a class="header-anchor" href="#vpn-providers-1"><span>VPN Providers</span></a></h4>
+<ul>
+<li><a href="https://one.one.one.one/" target="_blank" rel="noopener noreferrer">Cloudflare WARP</a> - Fast Free DNS VPN</li>
+<li><a href="https://windscribe.com/" target="_blank" rel="noopener noreferrer">Windscribe</a> - Versatile VPN with Adblocker</li>
+<li><a href="https://protonvpn.com/" target="_blank" rel="noopener noreferrer">ProtonVPN</a> - Secure Swiss VPN Service</li>
+<li><a href="https://riseup.net/en/vpn" target="_blank" rel="noopener noreferrer">Riseup VPN</a> - Privacy Focused Activist VPN</li>
+<li><a href="https://leap.se/" target="_blank" rel="noopener noreferrer">LEAP</a> - Encrypted Internet Access Tool</li>
+<li><a href="https://bitmask.net/" target="_blank" rel="noopener noreferrer">Bitmask</a> - Open Source VPN Client</li>
+</ul>
+<h2 id="data-breach-protection" tabindex="-1"><a class="header-anchor" href="#data-breach-protection"><span>Data Breach Protection</span></a></h2>
+<p>Check if your data was leaked in data breaches:</p>
+<h3 id="email-privacy" tabindex="-1"><a class="header-anchor" href="#email-privacy"><span>Email Privacy</span></a></h3>
+<p>Check if your email was leaked/sold:</p>
+<h4 id="email-privacy-1" tabindex="-1"><a class="header-anchor" href="#email-privacy-1"><span>Email Privacy</span></a></h4>
+<ul>
+<li><a href="https://haveibeenpwned.com/" target="_blank" rel="noopener noreferrer">Have I Been Pwned</a> - Check Data Breach Status</li>
+<li><a href="https://breachdirectory.org/" target="_blank" rel="noopener noreferrer">Breach Directory</a> - Search Leaked Data Records</li>
+<li><a href="https://leakpeek.com/" target="_blank" rel="noopener noreferrer">LeakPeek</a> - Monitor Personal Data Leaks</li>
+<li><a href="https://www.f-secure.com/en/identity-theft-checker" target="_blank" rel="noopener noreferrer">F-Secure Identity Checker</a> - Check for Identity Theft</li>
+</ul>
+<h3 id="password-privacy" tabindex="-1"><a class="header-anchor" href="#password-privacy"><span>Password Privacy</span></a></h3>
+<p>See how secure your passwords really are:</p>
+<ul>
+<li><a href="https://www.passwordmonster.com/" target="_blank" rel="noopener noreferrer">Password Monster</a> - Advanced Password Strength Tester</li>
+<li><a href="https://haveibeenpwned.com/Passwords" target="_blank" rel="noopener noreferrer">Have I Been Pwned Passwords</a> - Check Leaked Password Database</li>
+<li><a href="https://breachdirectory.org/passwords" target="_blank" rel="noopener noreferrer">Breach Directory Passwords</a> - Search Breached Password Records</li>
+</ul>
+</div></template>
+
+

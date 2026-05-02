@@ -1,0 +1,37 @@
+// place your custom styles here
+
+// Homepage background image with white overlay
+.vp-project-home {
+  position: relative;
+
+  &::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url('/home-background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.12;
+    z-index: 0;
+    pointer-events: none;
+  }
+
+  > * {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+::selection {
+  background: #eeca6c;
+}
+
+// Hide the tiny right arrows in lists
+ul li::after,
+ul li>a::after,
+.vp-list-item::after,
+.feature-item::after {
+  content: none !important;
+  display: none !important;
+}
