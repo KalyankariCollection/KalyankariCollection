@@ -7,6 +7,7 @@
 **A curated wiki of useful links, tools, and resources — gathered from across the internet to elevate the standard of Godly Services (Seva).**
 
 [![Visit the Wiki](https://img.shields.io/badge/Visit%20the%20Wiki-4A90E2?style=for-the-badge&logo=gitbook&logoColor=white)](https://kalyankari-collection.pages.dev)
+[![Telegram Group](https://img.shields.io/badge/Telegram%20Group-KalyankariCollection-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KalyankariCollection)
 [![Telegram](https://img.shields.io/badge/Telegram-%40KalyankariAngel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KalyankariAngel)
 [![Email](https://img.shields.io/badge/Email-KalyankariAngel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KalyankariAngel@gmail.com)
 
@@ -68,6 +69,7 @@ Before exploring the sites listed in the wiki, we **highly recommend** installin
 
 Reach out — we'd love to hear from you:
 
+- 📣 **Telegram Group**: [t.me/KalyankariCollection](https://t.me/KalyankariCollection) — join the community!
 - 💬 **Telegram**: [@KalyankariAngel](https://t.me/KalyankariAngel)
 - 📧 **Email**: [KalyankariAngel@gmail.com](mailto:KalyankariAngel@gmail.com)
 
