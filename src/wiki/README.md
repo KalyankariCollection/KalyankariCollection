@@ -33,9 +33,9 @@ It only takes a minute and makes a world of difference.
 
 ---
 
-## 📣 Join Our Telegram Group
+## 📣 Stay Updated — Join Our Telegram Group
 
-The Kalyankari Collection also has a **Telegram group** where we share updates, new additions, and discuss all things related to the collection. Come say hello!
+Whenever something changes in the Collection — a new resource is added, a category is updated, or a link is removed — an update is posted in the **Telegram group**. It's the best way to stay in the loop and never miss an addition.
 
 👉 **[t.me/KalyankariCollection](https://t.me/KalyankariCollection)**
 

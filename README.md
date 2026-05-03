@@ -62,13 +62,20 @@ Before exploring the sites listed in the wiki, we **highly recommend** installin
 
 ---
 
+## 📣 Stay Updated
+
+Whenever something changes in the Collection — a new resource is added, a category is updated, or a link is removed — an update is posted in our **Telegram group**. It's the best way to stay in the loop.
+
+👉 **[Join the Telegram Group](https://t.me/KalyankariCollection)**
+
+---
+
 ## 🤝 Contributing
 
 **Sharing is caring!** This collection thrives on community input. Found a great resource? Noticed a dead or unsafe link? Want to suggest a new category?
 
 Reach out — we'd love to hear from you:
 
-- 📣 **Telegram Group**: [t.me/KalyankariCollection](https://t.me/KalyankariCollection)
 - 💬 **Telegram**: [@KalyankariAngel](https://t.me/KalyankariAngel)
 - 📧 **Email**: [KalyankariAngel@gmail.com](mailto:KalyankariAngel@gmail.com)
 
