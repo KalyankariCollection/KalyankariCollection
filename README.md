@@ -16,7 +16,7 @@
 
 ## 📖 About
 
-The **Kalyankari Collection** is a carefully maintained, community-driven wiki that organises the best free tools, websites, and resources from the internet into one clean, searchable place.
+**Kalyankari Collection** is a carefully maintained, community-driven wiki that organises the best free tools, websites, and resources from the internet into one clean, searchable place.
 
 Whether you're looking for privacy tools, educational platforms, productivity apps, or the best Android and iOS resources — it's all here, organised by category, and ready to browse.
 
@@ -28,28 +28,28 @@ Whether you're looking for privacy tools, educational platforms, productivity ap
 
 The collection currently covers **21 categories**:
 
-| Category | Description |
-|---|---|
-| 📱 **Android** | Apps, tools, and resources for Android |
-| 🤖 **Artificial Intelligence** | AI models, chatbots, and ML tools |
-| 🎵 **Audio** | Music players, streaming, and audio tools |
-| 📚 **Books** | E-books, reading platforms, and literature |
-| 📄 **Documents** | PDF tools, editors, and office suites |
-| ⬇️ **Downloading** | Download managers and torrent clients |
-| 🎓 **Educational** | Learning platforms, courses, and study resources |
-| 📁 **Files** | File managers, cloud storage, and sync tools |
-| 🖼️ **Images** | Image editors and graphic design tools |
-| 🍎 **iOS** | Apps and resources for Apple iPhone/iPad |
-| 🖥️ **MacOS** | Software and utilities for macOS |
-| 📦 **Miscellaneous** | Useful tools that don't fit elsewhere |
-| 🕵️ **Privacy** | Adblockers, VPNs, and tracker prevention |
-| 🔒 **Security** | Password managers, encryption, and security tools |
-| 📈 **Self-Improvement** | Productivity apps and personal growth resources |
-| 💬 **Social Media** | Alternative clients and social media tools |
-| ✏️ **Text** | Text editors, markdown tools, and note-taking apps |
-| 🎬 **Videos** | Video players, streaming, and editors |
-| 🌐 **Web** | Browsers, extensions, and internet tools |
-| 🪟 **Windows** | Software, utilities, and tweaks for Windows |
+| Category                      | Description                                        |
+| ----------------------------- | -------------------------------------------------- |
+| 📱 **Android**                 | Apps, tools, and resources for Android             |
+| 🤖 **Artificial Intelligence** | AI models, chatbots, and ML tools                  |
+| 🎵 **Audio**                   | Music players, streaming, and audio tools          |
+| 📚 **Books**                   | E-books, reading platforms, and literature         |
+| 📄 **Documents**               | PDF tools, editors, and office suites              |
+| ⬇️ **Downloading**             | Download managers and torrent clients              |
+| 🎓 **Educational**             | Learning platforms, courses, and study resources   |
+| 📁 **Files**                   | File managers, cloud storage, and sync tools       |
+| 🖼️ **Images**                  | Image editors and graphic design tools             |
+| 🍎 **iOS**                     | Apps and resources for Apple iPhone/iPad           |
+| 🖥️ **MacOS**                   | Software and utilities for macOS                   |
+| 📦 **Miscellaneous**           | Useful tools that don't fit elsewhere              |
+| 🕵️ **Privacy**                 | Adblockers, VPNs, and tracker prevention           |
+| 🔒 **Security**                | Password managers, encryption, and security tools  |
+| 📈 **Self-Improvement**        | Productivity apps and personal growth resources    |
+| 💬 **Social Media**            | Alternative clients and social media tools         |
+| ✏️ **Text**                    | Text editors, markdown tools, and note-taking apps |
+| 🎬 **Videos**                  | Video players, streaming, and editors              |
+| 🌐 **Web**                     | Browsers, extensions, and internet tools           |
+| 🪟 **Windows**                 | Software, utilities, and tweaks for Windows        |
 
 ---
 
