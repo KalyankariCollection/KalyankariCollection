@@ -76,6 +76,9 @@ export default hopeTheme({
       assets: "iconify",
     },
 
+    slimsearch: {
+      indexContent: true,
+    },
 
   },
 });
