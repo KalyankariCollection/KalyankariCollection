@@ -16,9 +16,9 @@
 
 ## 📖 About
 
-**Kalyankari Collection** is a carefully maintained, community-driven wiki that organises the best free tools, websites, and resources from the internet into one clean, searchable place.
+**Kalyankari Collection** is an awesome wiki (By BKs, For BKs) that brings together the best tools and resources from across the web into one easy place.
 
-Whether you're looking for privacy tools, educational platforms, productivity apps, or the best Android and iOS resources — it's all here, organised by category, and ready to browse.
+Find everything you need — from privacy and productivity apps to educational sites and mobile resources — all organized and ready to use.
 
 > *"Kalyankari" (कल्याणकारी) — meaning One who does good for all.*
 
@@ -62,9 +62,11 @@ Before exploring the sites listed in the wiki, we **highly recommend** installin
 
 ---
 
-## 📣 Stay Updated
+## 📣 Join the Community & Stay Updated
 
-Whenever something changes in the Collection — a new resource is added, a category is updated, or a link is removed — an update is posted in our **Telegram group**. It's the best way to stay in the loop.
+You can also join the Kalyankari Collection Telegram Group You would get instant updates whenever we make any changes to the wiki.
+
+It’s also a great place to chat with other BKs, share your favorite tools, ask questions, or help someone out!
 
 👉 **[Join the Telegram Group](https://t.me/KalyankariCollection)**
 

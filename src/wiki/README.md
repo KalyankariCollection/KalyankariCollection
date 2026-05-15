@@ -18,7 +18,7 @@ Browse by category in the sidebar, or scroll down to learn a little more about w
 
 This collection was built to serve those who serve others. Whether you're looking for tools for productivity, creativity, privacy, learning, or anything in between — this wiki brings the best of the web into one trusted directory, organised and maintained with care.
 
-Everything here is freely accessible, community-vetted, and arranged into clear categories so you can find what you need.
+Everything here is freely accessible, community-vetted, and arranged into clear categories so that you can find what you need.
 
 ---
 
@@ -33,9 +33,11 @@ It only takes a minute and makes a world of difference.
 
 ---
 
-## 📣 Stay Updated — Join Our Telegram Group
+## 📣 Join the Community & Stay Updated
 
-Whenever something changes in the Collection — a new resource is added, a category is updated, or a link is removed — an update is posted in the **Telegram group**. It's the best way to stay in the loop and never miss an addition.
+You can also join the Kalyankari Collection Telegram Group to get instant updates whenever we make any changes to the wiki.
+
+It's also a great place to chat with other BKs, share your favorite tools, ask questions, or help someone out!
 
 👉 **[t.me/KalyankariCollection](https://t.me/KalyankariCollection)**
 
