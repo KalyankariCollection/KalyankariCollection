@@ -8,7 +8,7 @@ icon: mdi:shield-lock-outline
 
 For a cleaner experience while browsing:
 
-- [uBlock Origin](https://ublockorigin.com/) - Powerful Open Source Adblocker | [::mdi:github::](https://github.com/gorhill/uBlock) | [::tdesign:video::](https://youtu.be/2lisQQmWQkY) | [Recommended Filters](https://t.me/c/2238994015/1/739)
+- [uBlock Origin](https://ublockorigin.com/) - Powerful Open Source Adblocker | [::mdi:github::](https://github.com/gorhill/uBlock) | [::tdesign:video::](https://youtu.be/2lisQQmWQkY)
 - [uBOL](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible Chrome Adblocker
 - [AdGuard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension) - Feature Rich Browser Adblocker
 - [SponsorBlock](https://sponsor.ajay.app/) - Skip YouTube Sponsored Segments | [::mdi:github::](https://github.com/ajayyy/SponsorBlock)
@@ -47,7 +47,7 @@ Antispy tools to take back control of your privacy from Microsoft:
 - [W10Privacy](https://www.w10privacy.de/english-home/) - Advanced Windows Privacy Tweaker
 - [AdwCleaner](https://www.malwarebytes.com/adwcleaner) - Clean Malicious Adware Files
 - [Disable Recall](https://rentry.co/b88ixo8f) - Turn Off Windows Recall
-- [Privacy.sexy](https://privacy.sexy/) - Privacy Scripts and Presets | [Presets](https://t.me/c/2238994015/1/740)
+- [Privacy.sexy](https://privacy.sexy/) - Privacy Scripts and Presets
 - [Disable Telemetry](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) - Block Usage Data Collection
 
 ## Self-Destructing Messages

@@ -94,7 +94,7 @@ Websites for downloading religious/esoteric eBooks:
 - [Sankaracharya](https://www.sankaracharya.org/) - Advaita Vedanta Philosophy Books
 - [Shastras](https://www.shastras.com/) - Ancient Indian Scriptural Texts
 - [Vedabase](https://vedabase.io/en/) - Bhakti Yoga and Vedas
-- [Encyclopedia of Hinduism](https://t.me/c/2238994015/1/735) - Comprehensive Hindu Knowledge Resource
+- [Encyclopedia of Hinduism](https://icedrive.net/s/vkfxC327hPgXiBGSiNWxDAA5ubbb) - Hindu Knowledge Resource
 
 ## Educational Books
 

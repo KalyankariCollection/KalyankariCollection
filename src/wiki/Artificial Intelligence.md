@@ -85,7 +85,7 @@ A collection of useful AI Prompt libraries and resources:
 Guides to learning and mastering Prompt Engineering:
 
 - [Prompting Guide](https://www.promptingguide.ai/) - Prompt Engineering Guide and Resources | [::mdi:github::](https://github.com/dair-ai/Prompt-Engineering-Guide)
-- [Prompt Engineering Whitepaper](https://t.me/c/2238994015/1/924) - Technical Deep Dive into Prompting
+- [Prompt Engineering Whitepaper](https://icedrive.net/s/vk7jy13SPfguARR3Fa6P2tT58WuP) - Technical Deep Dive into Prompting
 - [Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering) - Advanced Techniques for LLM Prompting
 - [Learning Prompt](https://learningprompt.wiki/) - Beginner to Advanced Prompting Course
 - [Learn Prompting](https://learnprompting.org/docs/introduction) - Open Source Prompt Engineering Course

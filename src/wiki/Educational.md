@@ -134,11 +134,11 @@ Educational resources for specialized interests:
 #### Art
 
 - [Newgrounds Creator Wiki](https://t.me/KalyankariCollection/1/729) - Resources for Digital Content Creators
-- [Art Study Guide](https://t.me/c/2238994015/1/729) - Comprehensive Guide for Art Students
+- [Art Study Guide](https://icedrive.net/s/Su7CNhRbbZ1XW9k7Ywz72873jRuZ) - Comprehensive Guide for Art Students
 - [Drawabox](https://drawabox.com/) - Structured Exercises for Drawing Fundamentals
 - [Painting Tube](https://painting.tube/) - Curated Videos for Learning Painting
 - [Online Courses Club](https://online-courses.club/) - Community for Sharing Art Courses
-- [Curriculum for the Solo Artist](https://t.me/c/2238994015/1/730) - Self-Study Plan for Visual Artists
+- [Curriculum for the Solo Artist](https://icedrive.net/s/vkfxC327hPgXiBGSiNWxDAA5ubbb) - Self-Study Plan for Visual Artists
 
 #### Quotes
 
@@ -332,7 +332,7 @@ Resources for UI/UX design:
 - [HackDesign](https://hackdesign.org/) - Curated Lessons from Top Designers
 - [Sky Design](https://github.com/josephgoksu/sky-design) - Comprehensive Design Resource Collection
 - [Can't Unsee](https://cantunsee.space/) - Game to Test UI Attention
-- [50 UI Tips](https://t.me/c/2238994015/1/746) - Telegram Post of Design Tips
+- [50 UI Tips](https://icedrive.net/s/tw8FDfwAXS39jPVv16DztRVCbuy8) - 50 UI Tips
 - [Laws of UX](https://lawsofux.com/) - Collection of Best UX Practices
 
 ## Cybersecurity
