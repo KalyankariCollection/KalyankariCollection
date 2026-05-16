@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://kalyankari-collection.pages.dev",
 
   author: {
     name: "Kalyankari Collection",
