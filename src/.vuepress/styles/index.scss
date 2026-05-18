@@ -27,7 +27,7 @@
   background: #eeca6c;
 }
 
-// Hide the tiny right arrows in lists (Step 2: ul li>a::after)
+// Hide the tiny right arrows on links inside lists
 ul li>a::after {
   content: none !important;
   display: none !important;
