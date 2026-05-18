@@ -25,4 +25,10 @@
 
 ::selection {
   background: #eeca6c;
+}
+
+// Hide the tiny right arrows in lists (Step 1: ul li::after)
+ul li::after {
+  content: none !important;
+  display: none !important;
 }
