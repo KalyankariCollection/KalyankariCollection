@@ -25,13 +25,4 @@
 
 ::selection {
   background: #eeca6c;
-}
-
-// Hide the tiny right arrows in lists
-ul li::after,
-ul li>a::after,
-.vp-list-item::after,
-.feature-item::after {
-  content: none !important;
-  display: none !important;
-}
+}
