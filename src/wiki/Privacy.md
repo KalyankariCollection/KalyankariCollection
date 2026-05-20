@@ -8,36 +8,24 @@ icon: mdi:shield-lock-outline
 
 For a cleaner experience while browsing:
 
-- [uBlock Origin](https://ublockorigin.com/) - Powerful Open Source Adblocker | [::mdi:github::](https://github.com/gorhill/uBlock) | [::tdesign:video::](https://youtu.be/2lisQQmWQkY)
+- **[uBlock Origin](https://ublockorigin.com/)** - Powerful Open Source Adblocker | [::mdi:github::](https://github.com/gorhill/uBlock) | [::mdi:video-youtube::](https://youtu.be/2lisQQmWQkY)
 - [uBOL](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible Chrome Adblocker
 - [AdGuard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension) - Feature Rich Browser Adblocker
 - [SponsorBlock](https://sponsor.ajay.app/) - Skip YouTube Sponsored Segments | [::mdi:github::](https://github.com/ajayyy/SponsorBlock)
+- [BehindTheOverlay](https://github.com/NicolaeNMV/BehindTheOverlay) - Hide Any Website Overlay
 
 ## DNS Adblocking
 
-Used for network-wide adblocking 
+Used for network-wide adblocking
 ::: warning Conflict Warning
 Don't use along with browser adblockers as additional filters can cause conflicts
 :::
 
-
 - [Pi-hole](https://pi-hole.net/) - Self Hosted Network Adblocker
-- [AdGuard DNS](https://adguard-dns.io/kb/general/dns-providers/) - Public DNS Adblocking Service
+- [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/) - DNS Adblocking / Filtering / [mdi:jigsaw](https://mullvad.net/en/download/browser/extension) / [::mdi:github::](https://github.com/mullvad)
 - [NextDNS](https://nextdns.io/) - Customizable Cloud DNS Firewall
 - [LibreDNS](https://libredns.gr/) - Free Private DNS Service
-
-## Redirect Bypass
-
-To skip redirect pages filled with ads:
-
-- [Bypass All Shortlinks](https://codeberg.org/Amm0ni4/bypass-all-shortlinks-debloated/) - Open Source Redirect Bypasser
-
-#### Redirect Bypass
-
-- [Bypass.vip](https://bypass.vip/) - Skip Annoying Shortener Links
-- [Bypass.link](https://bypass.link/) - Online Shortlink Bypass Tool
-- [Bypass.city](https://bypass.city/) - Bypass Adfly and Shortlinks
-- [BypassUnlock](https://bypassunlock.com/) - Universal Shortlink Bypassing Site
+- [DNSWarden](https://dnswarden.com/) - DNS Adblocking / [::mdi:github::](https://github.com/bhanupratapys/dnswarden)
 
 ## Windows Privacy
 
