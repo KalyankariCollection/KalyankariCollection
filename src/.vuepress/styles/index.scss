@@ -17,7 +17,7 @@
     pointer-events: none;
   }
 
-  > * {
+  >* {
     position: relative;
     z-index: 1;
   }
@@ -28,7 +28,7 @@
 }
 
 // Hide the tiny right arrows on links inside lists
-ul li>a::after {
+ul li a::after {
   content: none !important;
   display: none !important;
-}
+}
