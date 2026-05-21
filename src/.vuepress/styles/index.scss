@@ -1,5 +1,16 @@
 // place your custom styles here
 
+// Normalize font rendering across browsers (Chrome renders colored links bolder)
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Inherit font-weight from parent so links inside <strong> are bold, otherwise normal
+[vp-content] a:not(.header-anchor) {
+  font-weight: inherit;
+}
+
 // Homepage background image with white overlay
 .vp-project-home {
   position: relative;
