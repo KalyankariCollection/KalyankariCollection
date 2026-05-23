@@ -1,5 +1,5 @@
 ---
-icon: mdi:brain
+icon: mdi:crown
 ---
 
 # Self-Improvement
