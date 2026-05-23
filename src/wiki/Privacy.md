@@ -8,7 +8,7 @@ icon: mdi:shield-lock-outline
 
 For a cleaner experience while browsing:
 
-- [**uBlock Origin**](https://ublockorigin.com/) - Powerful Open Source Adblocker | [::mdi:github::](https://github.com/gorhill/uBlock) | [::mdi:video-youtube::](https://youtu.be/2lisQQmWQkY)
+- [**💎 uBlock Origin**](https://github.com/gorhill/ublock/) - Powerful Open Source Adblocker | [::mdi:video-youtube::](https://youtu.be/2lisQQmWQkY)
 - [uBOL](https://github.com/uBlockOrigin/uBOL-home) - MV3 Compatible Chrome Adblocker
 - [AdGuard Browser Extension](https://github.com/AdguardTeam/AdguardBrowserExtension) - Feature Rich Browser Adblocker
 - [SponsorBlock](https://sponsor.ajay.app/) - Skip YouTube Sponsored Segments | [::mdi:github::](https://github.com/ajayyy/SponsorBlock)
