@@ -14,19 +14,21 @@ These websites are safe to the best of our knowledge, however we are not respons
 :::
 
 
-- [Mobilism](https://mobilism.org/) - Download Modded Android APKs <Badge text="Sign-Up Required" type="warning" />
+- [**Mobilism**](https://mobilism.org/) - Download Modded Android APKs <Badge text="Sign-Up Required" type="warning" />
 - [Platinmods](https://platinmods.com/) - Premium Modded Games APKs <Badge text="Sign-Up Required" type="warning" />
 - [Rockmods](https://www.rockmods.net/) - Modded Apps and Games
-- [An1](https://an1.com/) - Free Modded Android Games
-- [LiteAPKs](https://liteapks.com/) - Download Modded APKs | [::ic:baseline-telegram::](https://telegram.me/liteapks)
 - [Modyolo](https://modyolo.com/) - Premium Modded Games Apps
-- [PDALife](https://pdalife.com/) - Modded Apps and Games | [::ic:baseline-telegram::](https://t.me/pdalife_official)
+- [An1](https://an1.com/) - Free Modded Android Games
+- [APKBomb](https://www.apkbomb.com/)
+- [LiteAPKs](https://liteapks.com/) - Download Modded APKs | [::mdi:telegram::](https://telegram.me/liteapks)
+- [PDALife](https://pdalife.com/) - Modded Apps and Games | [::mdi:telegram::](https://t.me/pdalife_official)
 - [Sbenny](https://sbenny.com/) - Modded Android Games Forum
 - [APKSum](https://www.apksum.com/) - Download Original Modded APKs
 - [Androeed](https://androeed.store/) - Russian Modded Games Site | [::mdi:mirror::](https://androeed.ru/)
-- [APKVision](https://apkvision.org/) - Modded Games and Apps
+- [APKVision](https://apkvision.org/) - Modded Games and Apps | [::mdi:telegram::](https://t.me/apkvision)
 - [A2ZAPK](https://a2zapk.io/) - Premium Modded Android Apps
 - [APK4Free](https://apk4free.net/) - Cracked and Modded Apps
+- [Virgil APK Search](https://virgil.samidy.com/Mobile) - APK Search Engine
 
 ### Clean APKs
 
