@@ -64,7 +64,7 @@ Before exploring the sites listed in the wiki, we **highly recommend** installin
 
 ## 📣 Join the Community & Stay Updated
 
-You can also join the Kalyankari Collection Telegram Group You would get instant updates whenever we make any changes to the wiki.
+You can also join the Kalyankari Collection Telegram Group to discover new tools as they are added to the wiki.
 
 It’s also a great place to chat with other BKs, share your favorite tools, ask questions, or help someone out!
 

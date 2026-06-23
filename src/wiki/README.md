@@ -35,7 +35,7 @@ It only takes a minute and makes a world of difference.
 
 ## 📣 Join the Community & Stay Updated
 
-You can also join the Kalyankari Collection Telegram Group to get instant updates whenever we make any changes to the wiki.
+You can also join the Kalyankari Collection Telegram Group to discover new tools as they are added to the wiki.
 
 It's also a great place to chat with other BKs, share your favorite tools, ask questions, or help someone out!
 
