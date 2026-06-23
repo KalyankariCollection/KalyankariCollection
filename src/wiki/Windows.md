@@ -11,7 +11,7 @@ Sites to download software for Windows
 These websites are safe to the best of our knowledge, however we are not responsible for anything you download from here. Downloading modified software comes with inherent risks. Always scan the downloaded files for malware before installing, and **use your best judgement**. If something looks suspicious, don't download. You can also use Virtual Machines for testing suspicious software, so even if the VM gets infected you can just delete it.
 :::
 
-- [m0nkrus](https://rentry.org/KC-Base64#m0nkrus-links) - Pre-cracked Adobe Software Collection | [GenP](https://rentry.org/KC-Base64#genp-patcher)
+- [m0nkrus](https://pastebin.com/13vZyxN8) - Pre-cracked Adobe Software Collection
 - [CracksURL](https://cracksurl.com/) - Cracked Windows Software Repository
 - [FileCR](https://filecr.com/) - Premium Software Download Site
 - [lrepacks](https://lrepacks.net/) - Repacked Russian Software Site
